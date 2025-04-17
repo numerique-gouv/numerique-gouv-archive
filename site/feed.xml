@@ -1,0 +1,1166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>Le site officiel de la DINUM</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>L'ouverture des données publiques a sa feuille de route</title>
+      <description>&lt;p&gt;&lt;strong&gt;Sommaire de la feuille de route&lt;/strong&gt;
+&lt;br /&gt;
+L’ouverture des données publiques, liberté publique et levier d’innovation
+L’engagement du Gouvernement en faveur de la transparence de l’action publique et de l’ouverture des données&lt;/p&gt;
+
+&lt;p&gt;L’ambition du Gouvernement en matière d’ouverture des données publiques :
+&lt;br /&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;travailler à l’ouverture de jeux de données stratégiques&lt;/li&gt;
+  &lt;li&gt;faciliter et améliorer le processus d’ouverture des données publiques
+dans les ministères, les établissements publics, et les collectivités territoriales&lt;/li&gt;
+  &lt;li&gt;accompagner les réutilisations innovantes et la communauté des réutilisateurs&lt;/li&gt;
+  &lt;li&gt;la transparence et la culture de la donnée au service de la modernisation de l’action publique&lt;/li&gt;
+  &lt;li&gt;l’évaluation des redevances existantes&lt;/li&gt;
+  &lt;li&gt;évolutions du cadre juridique et administratif&lt;/li&gt;
+  &lt;li&gt;l’action internationale de la France&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote class=&quot;lien-important&quot; role=&quot;presentation&quot;&gt;
+  &lt;p&gt;&lt;a href=&quot;/uploads/fr-donnees-publiques.pdf&quot; target=&quot;_blank&quot;&gt;Feuille de route de l’ouverture des données publiques&lt;/a&gt;(Pdf - 70 Ko)&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+      <pubDate>
+
+
+
+1er
+
+mars
+
+  2013
+</pubDate>
+      <link>http://localhost:4000/actualites/louverture-des-donnees-publiques-a-sa-feuille-de-route/</link>
+      <guid isPermaLink="true">http://localhost:4000/actualites/louverture-des-donnees-publiques-a-sa-feuille-de-route/</guid>
+    </item>
+    
+    <item>
+      <title>Concours Dataconnexions : interview d'Eduardo Larrain, lauréat</title>
+      <description>&lt;h4 id=&quot;vous-êtes-directeur-général-et-co-fondateur-de-kel-quartier-pouvez-vous-décrire-en-quelques-mots-ce-projet-&quot;&gt;Vous êtes directeur général et co-fondateur de Kel Quartier. Pouvez-vous décrire en quelques mots ce projet ?&lt;/h4&gt;
+
+&lt;p&gt;Kel Quartier est le guide des 40 000 quartiers et des communes de France. Cette application vous aide à trouver le quartier où habiter en vous donnant gratuitement toute l’information que vous avez besoin de savoir sur un territoire. Pour ceux qui souhaitent s’installer dans un nouveau quartier ou qui voyagent dans une nouvelle ville.&lt;/p&gt;
+
+&lt;h4 id=&quot;quest-ce-que-ce-projet-de-réutilisation-des-données-publiques-change-dans-la-vie-des-français-&quot;&gt;Qu’est-ce que ce projet de réutilisation des données publiques change dans la vie des Français ?&lt;/h4&gt;
+
+&lt;p&gt;Avant Kel Quartier, il fallait passer un temps fou pour essayer de connaître un quartier en passant des heures au téléphone, en recherchant des données précieuses sur Internet et même en se promenant pendant des heures en voiture. Tout cela pour arriver à une vision fragmentée et incomplète d’un quartier.&lt;/p&gt;
+
+&lt;p&gt;Les Français ont désormais les réponses à toutes les questions qu’ils se posent avant d’acheter un logement : le quartier est-il sûr ? Proche d’une crèche ? Avec un bon collège ? Avec un bon lycée ? Avec des espaces verts, des équipements sportifs, du commerce et des loisirs ? Tranquille ou animé ? Ensoleillé ? Bien desservi par les transports ? Etc.&lt;/p&gt;
+
+&lt;p&gt;Kel Quartier permet aux Français de trouver le quartier qui convient le mieux à leurs besoins, mais aussi celui qui colle le mieux à leur personnalité.&lt;/p&gt;
+
+&lt;h4 id=&quot;vous-avez-reçu-le-prix-grand-public-du-concours-dataconnexions-2-en-février-depuis-quatre-mois-quest-ce-que-ce-prix-a-changé-dans-lavancée-de-votre-projet-&quot;&gt;Vous avez reçu le prix grand public du concours dataconnexions #2 en février. Depuis quatre mois, qu’est-ce que ce prix a changé dans l’avancée de votre projet ?&lt;/h4&gt;
+
+&lt;p&gt;Le prix dataconnexions #2 nous a permis d’améliorer notre visibilité et notre crédibilité auprès de l’Administration publique, de nos partenaires et de nos prospects.&lt;/p&gt;
+
+&lt;p&gt;Dans les faits, nous avons bénéficié d’une dizaine d’articles de presse et autant de nouveaux prospects.&lt;/p&gt;
+
+&lt;h4 id=&quot;vous-évoluez-dans-la-communauté-dinnovateurs-et-dentrepreneurs-autour-du-concours-dataconnexions-pouvez-vous-nous-expliquer-ce-que-cet-échange-avec-la-communauté-vous-a-apporté-&quot;&gt;Vous évoluez dans la communauté d’innovateurs et d’entrepreneurs autour du concours dataconnexions. Pouvez-vous nous expliquer ce que cet échange avec la communauté vous a apporté ?&lt;/h4&gt;
+
+&lt;p&gt;La communauté est très importante car le marché de la donnée étant en pleine croissance, il est plus important de s’entraider pour élargir le gâteau plutôt que de se concurrencer.&lt;/p&gt;
+
+&lt;p&gt;On constate d’ailleurs une spécialisation naturelle des acteurs par secteur d’activité.&lt;/p&gt;
+
+&lt;p&gt;Par exemple, Kel Quartier est spécialisé dans le secteur immobilier et aussi dans la zone de chalandise indépendamment du secteur d’activité.&lt;/p&gt;
+
+&lt;h4 id=&quot;quels-conseils-donneriez-vous-aux-futurs-candidats-du-concours-dataconnexions-3-&quot;&gt;Quels conseils donneriez-vous aux futurs candidats du concours dataconnexions #3 ?&lt;/h4&gt;
+
+&lt;p&gt;L’Open Data à la française a déjà ouvert un océan d’opportunités qui restent encore largement inexploitées. C’est le moment idéal pour lancer de nouvelles réutilisations sur les données déjà publiques et de devenir le meilleur dans son secteur.&lt;/p&gt;
+</description>
+      <pubDate>
+
+
+
+17
+
+mai
+
+  2013
+</pubDate>
+      <link>http://localhost:4000/actualites/concours-dataconnexions-interview-deduardo-larrain-laureat/</link>
+      <guid isPermaLink="true">http://localhost:4000/actualites/concours-dataconnexions-interview-deduardo-larrain-laureat/</guid>
+    </item>
+    
+    <item>
+      <title>L'open data a son vade-mecum</title>
+      <description>&lt;p&gt;Le 13 septembre 2013, Jean-Marc Ayrault, Premier ministre, a adressé aux membres du Gouvernement une circulaire annonçant la publication du « Vade-mecum sur l’ouverture et le partage des données publiques ». Ce guide est le résultat d’un travail engagé par la feuille de route numérique du Gouvernement et entériné lors du comité interministériel pour la modernisation de l’action publique (CIMAP) du 2 avril 2013. La politique de mise à disposition des données publiques et leur réutilisation libre et facile est un engagement fort du Premier ministre.&lt;/p&gt;
+
+&lt;p&gt;Le &lt;a href=&quot;http://www.gouvernement.fr/presse/vade-mecum-sur-l-ouverture-et-le-partage-des-donnees-publiques&quot; target=&quot;_blank&quot;&gt;vade-mecum&lt;/a&gt; publié aujourd’hui en est la traduction concrète. Il vise à faciliter l’engagement des ministères dans la démarche d’ouverture et de référencement de leurs données publiques sur la plateforme nationale &lt;a href=&quot;http://www.data.gouv.fr&quot; target=&quot;_blank&quot;&gt;www.data.gouv.fr&lt;/a&gt;. Il rappelle les enjeux du partage des données publiques et fournit un guide de sa mise en oeuvre, recensant et répondant aux questions pratiques relatives à l’Open Data.
+Administrée par la mission Etalab, placée au sein du Secrétariat Général pour la Modernisation de l’Action Publique, la plateforme &lt;a href=&quot;http://www.data.gouv.fr&quot; target=&quot;_blank&quot;&gt;www.data.gouv.fr&lt;/a&gt; compte aujourd’hui 350 000 fichiers et peut accueillir toutes les données publiques.&lt;/p&gt;
+
+&lt;p&gt;La diffusion à tous les ministères du &lt;a href=&quot;https://www.gouvernement.fr/presse/vade-mecum-sur-l-ouverture-et-le-partage-des-donnees-publiques&quot; target=&quot;_blank&quot;&gt;« Vade-mecum sur l’ouverture et le partage des données publiques »&lt;/a&gt; permettra de faire de tous les agents concernés les acteurs d’une politique ambitieuse au service de la modernisation de l’action publique, de la démocratie et du dynamisme économique.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.modernisation.gouv.fr/sites/default/files/fichiers-attaches/vademecum-ouverture.pdf&quot; target=&quot;_blank&quot;&gt;Vade-mecum sur l’ouverture et le partage des données publiques&lt;/a&gt; (Pdf -29,5 Ko)&lt;/p&gt;
+</description>
+      <pubDate>
+
+
+
+17
+
+septembre
+
+  2013
+</pubDate>
+      <link>http://localhost:4000/actualites/lopen-data-a-son-vade-mecum/</link>
+      <guid isPermaLink="true">http://localhost:4000/actualites/lopen-data-a-son-vade-mecum/</guid>
+    </item>
+    
+    <item>
+      <title>Ils ont gagné Dataconnexions : rencontre avec KelQuartier</title>
+      <description>&lt;p&gt;Lauréat du concours Dataconnexions 2, Edouardo Larrain, président de la startup KelQuartier présente son service d’information sur les quartiers constitué à partir de données publiques ouvertes et revient sur l’apport du concours au développement de son projet.&lt;/p&gt;
+</description>
+      <pubDate>
+
+
+
+7
+
+octobre
+
+  2013
+</pubDate>
+      <link>http://localhost:4000/actualites/ils-ont-gagne-dataconnexions-rencontre-avec-kelquartier/</link>
+      <guid isPermaLink="true">http://localhost:4000/actualites/ils-ont-gagne-dataconnexions-rencontre-avec-kelquartier/</guid>
+    </item>
+    
+    <item>
+      <title>Une association pour soutenir le développement de l’open data dans les collectivités</title>
+      <description>&lt;p&gt;&lt;strong&gt;L’association OpenData France est une réalité. Créée le 9 octobre dernier, cette association regroupe et soutient les collectivités territoriales dans une démarche d’ouverture de leurs données publiques, objectif : favoriser toutes les démarches au niveau local dans ce domaine et promouvoir le développement de l’open data. Etalab, membre associé, était présent pour l’occasion ainsi que de nombreux représentants des collectivités territoriales.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;bienvenue-à-opendata-france&quot;&gt;Bienvenue à OpenData France&lt;/h4&gt;
+
+&lt;p&gt;Créée le 9 octobre 2013, OpenData France a pour but de regrouper et soutenir les collectivités engagées activement dans une démarche d’ouverture des données publiques et de favoriser toutes les démarches entreprises par ces collectivités dans le but de la promotion de l’open data. Etalab a participé à la création de l’association Open Data France dont elle est membre associé.&lt;/p&gt;
+
+&lt;p&gt;L’association Open data France (ODF) se donne comme objectifs :
+&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;d’apporter à ses membres les informations, conseils ou autres soutiens nécessaires a l’ouverture des données publiques ;&lt;/li&gt;
+  &lt;li&gt;de favoriser les négociations avec l’ensemble des partenaires nationaux ou internationaux, notamment avec les ministères concernés, les instances de régulation et les différents acteurs économiques du secteur ;&lt;/li&gt;
+  &lt;li&gt;de favoriser les productions communes par des groupes de travail ou ateliers sur des thèmes définis en commun comme devant apporter des éléments de réponse aux questions qui se posent sur l’Open Data et sa mise en œuvre ;&lt;/li&gt;
+  &lt;li&gt;de participer au développement du mouvement Open Data par toutes actions de communication (conférence), valorisation, formation et accompagnement ;&lt;/li&gt;
+  &lt;li&gt;de représenter ses membres auprès de toute autorité publique et privée dans le but d’assurer la défense des intérêts matériels et moraux de ses membres ;&lt;/li&gt;
+  &lt;li&gt;et de mettre en œuvre tous les autres moyens susceptibles d’être utilisés pour concourir à la réalisation de l’objet de l’association.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;une-création-fortement-soutenue-par-les-collectivités&quot;&gt;Une création fortement soutenue par les collectivités&lt;/h4&gt;
+
+&lt;p&gt;L’événement a eu lieu à Toulouse.  A cette occasion, ont été formulés les objectifs communs à toutes les collectivités qui rejoindront OpenData France :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;toutes les collectivités membres d’ODF et celles qui vont rejoindre l’association ont pour volonté d’ouvrir leurs données ;&lt;/li&gt;
+  &lt;li&gt;des membres associes (non collectivités mais actifs dans l’ouverture des données) peuvent adhérer à ODF ;&lt;/li&gt;
+  &lt;li&gt;tout membre affiche la même volonté de développer l’ouverture des données publiques à des fins de transparence démocratique et de développement économique ;&lt;/li&gt;
+  &lt;li&gt;tout membre travaille à ouvrir le plus de jeux de données similaires dans la mesure du possible.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pour la création d’Opendata France de nombreuses collectivités ont adhéré à l’association :
+&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Toulouse Métropole et la ville de Toulouse ;&lt;/li&gt;
+  &lt;li&gt;Nantes Métropole et la ville de Nantes ;&lt;/li&gt;
+  &lt;li&gt;Rennes Métropole et la ville de Rennes ;&lt;/li&gt;
+  &lt;li&gt;la ville de Montpellier, la région PACA ;&lt;/li&gt;
+  &lt;li&gt;le conseil général de Saône-et-Loire ;&lt;/li&gt;
+  &lt;li&gt;le conseil général de Gironde ;&lt;/li&gt;
+  &lt;li&gt;le conseil général de Loire Atlantique ;&lt;/li&gt;
+  &lt;li&gt;la ville de Bordeaux ;&lt;/li&gt;
+  &lt;li&gt;la communauté urbaine de Bordeaux ;&lt;/li&gt;
+  &lt;li&gt;la communauté urbaine du Grand Lyon ;&lt;/li&gt;
+  &lt;li&gt;la ville de Digne les Bains ;&lt;/li&gt;
+  &lt;li&gt;la commune de Brocas ;&lt;/li&gt;
+  &lt;li&gt;la commune de Balma et la ville de Paris.
+Le Président de l’association élu est Pierre Cohen, Maire de Toulouse et président de la communauté urbaine de Toulouse Métropole. Etalab et l’association Libertic sont membres associés.
+Quant à Nice, la région Ile-de-France, l’AggloPau, Strasbourg, Angers, la région Normandie et Loire Métropole, elles ont annoncé leur intention de rejoindre l’association.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>
+
+
+
+10
+
+octobre
+
+  2013
+</pubDate>
+      <link>http://localhost:4000/actualites/une-association-pour-soutenir-le-developpement-de-lopen-data-dans-les-collectivites/</link>
+      <guid isPermaLink="true">http://localhost:4000/actualites/une-association-pour-soutenir-le-developpement-de-lopen-data-dans-les-collectivites/</guid>
+    </item>
+    
+    <item>
+      <title>Remise du rapport Trojette sur l'ouverture des données publiques</title>
+      <description>&lt;p&gt;Dans le cadre de sa politique en faveur de l’ouverture et du partage des données publiques, le Premier Ministre avait demandé en mars dernier à M. Mohammed Adnène Trojette, magistrat à la cour des Comptes, « d’évaluer les modèles économiques de chaque redevance existante portant sur l’utilisation des données publiques, notamment en auditant les coûts et les recettes associés ». Il a reçu, et publié, ce jour, les conclusions de cette étude.&lt;/p&gt;
+
+&lt;p&gt;Le Premier Ministre a rappelé à plusieurs reprises le principe selon lequel les données produites par le service public, quand elles ne sont pas personnelles et ne touchent pas à la sécurité nationale, doivent être mises à la disposition du plus grand nombre, gratuitement, dans des formats réutilisables. C’est une ambition qui sert à la fois la transparence démocratique, la modernisation de l’action publique et l’innovation économique et sociale et ce principe de gratuité progresse, appuyé par de régulières évolutions de notre droit.&lt;/p&gt;
+
+&lt;p&gt;Le rapport remis par M. Trojette recense 27 catégories de données soumises à redevances. Il constate que celles-ci produisent des revenus décroissants (35 millions d’euros en 2012, -33% par rapport à 2010) et que 90% de ces revenus se concentrent sur dix jeux de données, généralement vendus par des opérateurs dédiés à la production de données.
+Le rapport apporte également des éclaircissements sur le cadre juridique applicable aux différentes formes de redevances. Il analyse également les raisons qui devraient conduire, à moyen terme, à l’extinction des modèles économiques fondés sur la vente de données brutes.&lt;/p&gt;
+
+&lt;p&gt;Sur la base de ce rapport, le Premier ministre présentera au prochain CIMAP de décembre la doctrine d’ensemble du Gouvernement en matière d’exception à la gratuité et les premières décisions de suppressions de redevances pour 2014.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/uploads/20131105-rapporttrojetteannexes.pdf&quot;&gt;Rapport Trojette sur l’ouverture des données publiques avec annexes&lt;/a&gt; (Pdf - 402 Mo)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>
+
+
+
+5
+
+novembre
+
+  2013
+</pubDate>
+      <link>http://localhost:4000/actualites/remise-du-rapport-trojette-sur-louverture-des-donnees-publiques/</link>
+      <guid isPermaLink="true">http://localhost:4000/actualites/remise-du-rapport-trojette-sur-louverture-des-donnees-publiques/</guid>
+    </item>
+    
+    <item>
+      <title>Plan d'action G8 sur l’ouverture des données publiques</title>
+      <description>&lt;p&gt;La transparence de l’action publique est un engagement fort du Gouvernement qui s’inscrit dans une longue tradition républicaine et démocratique française. L’article 15 de la Déclaration des Droits de l’Homme et du Citoyen affirme : “la Société est en droit de demander compte à tout Agent public de son administration”. L’ouverture et le partage des données publiques ajoutent à cet impératif démocratique un engagement résolu de notre pays et de nos territoires au service de l’innovation économique et sociale et de la modernisation de l’action publique.&lt;/p&gt;
+
+&lt;p&gt;Le plan d’action de la France publié ce jour présente les axes de travail que s’est fixés le gouvernement pour l’avenir : progresser vers l’ouverture par défaut des données publiques ; bâtir une plateforme ouverte pour encourager l’innovation et la transparence ; co-construire la politique d’ouverture des données en concertation avec les citoyens et la société civile ; soutenir l’innovation ouverte en France et dans le monde.&lt;/p&gt;
+
+&lt;p&gt;Au nom de ce principe, la France a progressivement construit un droit d’accès aux documents et aux informations de l’administration, depuis le service public des archives, le service de la statistique publique, l’adoption en 1978 de la loi sur l’accès aux documents administratifs, la création d’un grand service public de la diffusion du droit ou encore la transposition de la directive européenne sur les informations du secteur public en 2005.&lt;/p&gt;
+
+&lt;p&gt;Avec l’ouverture, dès 2010, de portails d’open data dans plusieurs collectivités locales et la création, en 2011, de la mission Etalab auprès du Premier ministre, la France a ajouté à cet impératif démocratique un engagement résolu au service de l’innovation, de la croissance économique et de la modernisation de l’action publique.&lt;/p&gt;
+
+&lt;p&gt;C’est pourquoi le président de la République a naturellement soutenu, puis paraphé, la Charte du G8 pour l’Ouverture des Données Publiques, adoptée au Sommet du G8 les 17 et 18 juin 2013, dont le communiqué final, appelle à “des économies ouvertes, des sociétés ouvertes et des gouvernements ouverts”.&lt;/p&gt;
+
+&lt;p&gt;Conformément aux termes de cette charte, le document publié aujourd’hui rappelle le contexte de la politique du gouvernement français en matière d’ouverture des données publiques, détaille les principales difficultés et les défis auxquels elle fait face, et présente les axes de travail pour l’avenir que s’est fixé le Gouvernement.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/uploads/opendata_g8_plan-action-france.pdf&quot;&gt;Charte du G8 pour l’ouverture des données publiques : plan d’action pour la France&lt;/a&gt; (Pdf - 775.07 Ko)&lt;/p&gt;
+</description>
+      <pubDate>
+
+
+
+7
+
+novembre
+
+  2013
+</pubDate>
+      <link>http://localhost:4000/actualites/plan-daction-g8-sur-louverture-des-donnees-publiques/</link>
+      <guid isPermaLink="true">http://localhost:4000/actualites/plan-daction-g8-sur-louverture-des-donnees-publiques/</guid>
+    </item>
+    
+    <item>
+      <title>L'open data en territoire : focus sur la Saone et Loire</title>
+      <description>&lt;h3 id=&quot;1le-13-novembre-la-démarche-dopen-data-a-été-lancée-au-niveau-du-territoire-de-saône-et-loire-pouvez-vous-nous-en-dire-plus-sur-la-genèse-du-projet-&quot;&gt;1.Le 13 novembre, la démarche d’open data a été lancée au niveau du territoire de Saône-et-Loire. Pouvez-vous nous en dire plus sur la genèse du projet ?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;P.M :&lt;/strong&gt; La crise des finances publiques nous a poussé à analyser et à revoir l’ensemble de nos dispositifs, et donc de nos aides. Au-delà de l’exploitation de ces données, il y avait pour nous un véritable enjeu de communication auprès des citoyens. Et quitte à expliquer, autant expliquer en toute transparence en utilisant les nouveaux outils à notre disposition. Ce travail effectué, il nous fallait compléter nos données insuffisantes prises isolément. C’est pourquoi nous nous sommes tournés vers les services déconcentrés de l’Etat. Une fois le projet avalisé entre le président du Conseil général et le préfet, nous avons mis en place un COPIL pour identifier les données et le format que la libération des données prendrait. Il s’agirait d’une plateforme commune d’open data. Nous allons associer le comité d’éthique pour bénéficier d’expertise sur la pertinence et la sensibilité de tel ou tel jeu de données.  Le Secrétariat général pour la modernisation de l’action publique, à travers l’action d’Etalab, nous  accompagne fortement dans notre démarche.&lt;/p&gt;
+
+&lt;h3 id=&quot;quels-sont-les-objectifs-que-vous-poursuivez-à-travers-cette-démarche-douverture-de-vos-données-&quot;&gt;Quels sont les objectifs que vous poursuivez à travers cette démarche d’ouverture de vos données ?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;P.M :&lt;/strong&gt; Nous poursuivons avant tout un objectif de transparence démocratique en nous inscrivant dans la logique d’une collectivité qui rend des comptes à ses citoyens. Notre deuxième objectif est de renforcer l’attractivité économique de notre territoire en mettant à disposition de tous, et notamment des entreprises, des chiffres et des  informations relatifs à nos marchés, notre patrimoine…A ce titre, nous suivrons de très près le concours Dataconnexions#4 organisé par le SGMAP pour percevoir les attentes des startups et repérer des bonnes pratiques de réutilisation des données publiques. Enfin, il s’agit de s’inscrire dans une démarche de modernisation de l’action publique. La mise en œuvre de l’open data sur le territoire implique de nouvelles procédures, de nouveaux métiers…&lt;/p&gt;
+
+&lt;h3 id=&quot;sur-quels-types-de-données-le-département-de-saône-et-loire-compte-t-il-sappuyer-pour-enrichir-ce-projet-&quot;&gt;Sur quels types de données le département de Saône-et-Loire compte-t-il s’appuyer pour enrichir ce projet ?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;P.M :&lt;/strong&gt; Nous sommes aujourd’hui dans une démarche pro-active avec le souhait de mettre en ligne un maximum de données. Savez-vous qu’environ 60% des données de la collectivité sont mises à disposition de nos concitoyens ? C’est le cas des frais de fonctionnement de nos services par exemple. Ou encore les subventions attribuées à telle ou telle association. Cela représente environ 70 000 fichiers  sur toutes les activités du département. Les données jugées sensibles comme les données personnelles ne sont pas mises en ligne. Nos données seules ne sont pas suffisantes, beaucoup méritent d’être croisées avec des données convergentes comme celles de l’Etat ou encore celles des délégataires de services publics. C’est cette collaboration qui rendra les données publiques stratégiques et cohérentes et qui nous permettra de décrire les territoires de demain, à l’instar de la mise à disposition des POS (plans d’occupation des sols), des PLU (plans locaux d’urbanisme) et des SCOT (schémas de cohérence territoriale).&lt;/p&gt;
+
+&lt;h3 id=&quot;quels-sont-selon-vous-les-principaux-avantages-que-les-territoires-peuvent-tirer-de-louverture-des-données-publiques-&quot;&gt;Quels sont, selon vous, les principaux avantages que les territoires peuvent tirer de l’ouverture des données publiques ?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;P.M :&lt;/strong&gt;  Il y a d’abord des craintes, comme celles de perdre la maîtrise de l’information ou de rendre confuse notre présence dans le débat public. Je pense que ces craintes ne sont pas justifiées.  La libération des données publiques peut être un véritable accélérateur de proximité dans le débat, mais aussi de compétitivité. Pour les territoires, l’open data permet de construire des outils de projection efficaces. Véritable outil d’aide à la décision, l’open data dispose aussi d’une réelle capacité d’entraînement des collectivités en élevant toujours plus le niveau de confiance et de partage d’informations entre les acteurs des collectivités.&lt;/p&gt;
+
+</description>
+      <pubDate>
+
+
+
+19
+
+novembre
+
+  2013
+</pubDate>
+      <link>http://localhost:4000/actualites/lopen-data-en-territoire-focus-sur-la-saone-et-loire/</link>
+      <guid isPermaLink="true">http://localhost:4000/actualites/lopen-data-en-territoire-focus-sur-la-saone-et-loire/</guid>
+    </item>
+    
+    <item>
+      <title>Concours Dataconnexions#4 : entretien avec Frédéric Mazzella, président du jury</title>
+      <description>&lt;h3 id=&quot;1-frédéric-mazzella-votre-startup-blablacar-est-ancrée-dans-le-numérique-parlez-nous-de-limportance-du-digital-dans-le-développement-dun-service-de-co-voiturage&quot;&gt;1. Frédéric Mazzella, votre startup BlaBlaCar est ancrée dans le numérique, parlez-nous de l’importance du digital dans le développement d’un service de co-voiturage&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;F.M :&lt;/strong&gt; Techniquement le Covoiturage repose sur des Données et de la Connectivité. Avec plus de 5 millions de membres dans le réseau BlaBlaCar Europe et plus d’un million de voyageurs chaque mois, le covoiturage n’a pu se développer que grâce au digital (la capacité de traiter de grandes quantités de données rapidement), et grâce à internet (la connectivité).&lt;/p&gt;
+
+&lt;p&gt;Le digital est indispensable au développement du covoiturage à grande échelle car les quantités d’informations à traiter sont colossales : collecter et distribuer à tout instant l’information sur les places disponibles dans des millions de voitures de particuliers circulant partout, et dans toutes les directions.   Au-delà de ce métier d’agrégateur d’information de “sièges disponibles”, la précision et la quantité des informations nécessaires aux voyageurs pour faire leur choix nous demande de nous appuyer sur d’autres sources de données elles aussi colossales, afin de pouvoir donner précisément les informations sur les lieux de départ ou d’arrivée des trajets possibles.&lt;/p&gt;
+
+&lt;p&gt;Internet (ou la connectivité temps réel) est également indispensable au covoiturage pour la simple raison que la collecte et la restitution des informations doivent aller très vite. L’usage accru des téléphones mobile renforce cette nécessité de rapidité de circulation et traitement des informations. Le covoiturage est un “service de mobilité”, et il trouve donc toute sa pertinence sur smartphones.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-vous-prenez-la-présidence-de-cette-4e-édition-de-dataconnexions-que-pensez-vous-de-lopen-data-comme-moteur-de-développement-des-jeunes-pousses-françaises-&quot;&gt;2. Vous prenez la présidence de cette 4e édition de Dataconnexions, que pensez-vous de l’open data comme moteur de développement des jeunes pousses françaises ?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;F.M :&lt;/strong&gt; La construction d’une structure permettant d’héberger des données comme Etalab dont le concours Dataconnexions est issu, est le résultat de la volonté de développer un écosystème autour des données. L’open data est donc une “nouvelle matière première” dont les générations futures vont pouvoir se servir. Les développeurs et innovateurs de tous horizons vont pouvoir se nourrir de l’open data pour faire naître de nouvelles applications et services. L’open data est aussi un fort moteur de développement, et une grande chance pour les startups futures et pour l’innovation en général, en France comme ailleurs.
+Au-delà des innovateurs et jeunes pousses, ces données seront aussi utiles aux administrations et collectivités locales elles-mêmes, qui n’avaient pas forcément déjà accès à ces données potentiellement produites par d’autres administrations.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-pour-vous-quelle-est-limportance-de-lopen-data-dans-le-paysage-économique-actuel-&quot;&gt;3. Pour vous, quelle est l’importance de l’open data dans le paysage économique actuel ?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;F.M :&lt;/strong&gt; L’open data peut amener croissance et engagement.  L’arrivée d’une nouvelle et forte tendance comme l’open data est une potentielle gigantesque bouffée d’air pour la croissance et la création de valeur, et aussi pour l’optimisation de processus anciens, obsolètes, chers ou inefficaces.&lt;/p&gt;
+
+&lt;p&gt;L’important dans cette démarche d’open data est de rendre accessibles la production et l’utilisation des données au plus grand nombre d’acteurs. Il s’agit donc de simplifier les échanges et de standardiser intelligemment les modèles de données, de manière flexible. Cela amènera un meilleur engagement de la communauté, et cet engagement est le gage de réussite et de croissance de tout l’écosystème.&lt;/p&gt;
+
+&lt;h3 id=&quot;4que-pensez-vous-dune-initiative-comme-celle-du-concours-dataconnexions-et-plus-généralement-de-louverture-des-données-publiques-&quot;&gt;4.Que pensez-vous d’une initiative comme celle du concours Dataconnexions, et plus généralement de l’ouverture des données publiques ?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;F.M :&lt;/strong&gt; L’ouverture des données publiques incite à une transparence de gouvernance des élus, et amène un engagement citoyen. C’est un changement de culture et de gouvernance qui s’annonce. L’open data et le concours Dataconnexions en particulier, sont une excellente occasion pour tous les organismes publics de gouvernance d’améliorer leur image et la perception des citoyens pour la politique. En permettant l’accès à des données factuelles sur l’efficacité et la réalité des mesures politiques mises en place, l’open data permet de passer de l’intuition à l’analyse, de l’idée politique à la réalité économique et sociale. L’accès aux données permet une réflexion saine et non partisane, qui pousse au pragmatisme et à la transparence et améliore les décisions et les anticipations, et donc l’adhésion des citoyens.&lt;/p&gt;
+
+&lt;p&gt;L’ouverture des données publiques est aussi un excellent moyen de responsabiliser les citoyens, car l’ouverture est un processus à double sens : lorsque l’on s’ouvre à quelqu’un, l’autre nous le renvoie. Je pense qu’il est donc important de féliciter Etalab dans la démarche entreprise car cela constitue le premier pas qui incite les organismes disposant de données “publiques” à les partager, pour qu’ensuite en retour nos concitoyens puissent rendre de la valeur par leur engagement et par l’analyse et l’utilisation de ces données, pour les transformer en services à valeur ajoutées ou bien en outils d’aide à la décision collective.&lt;/p&gt;
+
+&lt;p&gt;L’ouverture des données publiques est en fait une démarche de l’offre, que l’on retrouve souvent (à une moindre échelle) dans la création de nouveaux produitss. Le moteur de tout l’écosystème sera l’engagement de la communauté, et sa responsabilisation par rapport à la manière de traiter cette nouvelle matière première.&lt;/p&gt;
+
+&lt;h3 id=&quot;5-quel-message-souhaitez-vous-adresser-aux-candidats-de-dataconnexions-&quot;&gt;5. Quel message souhaitez-vous adresser aux candidats de Dataconnexions ?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;F.M :&lt;/strong&gt; Merci tout d’abord aux candidats de cette année pour avoir imaginé et souvent initié des services très innovants sur la base des nouvelles données accessibles. Nous avons reçu 63 dossiers de candidature cette année, soit 2 fois plus que pour l’édition précédente. C’est le signe que le mouvement est lancé, et que l’open data s’impose déjà comme une tendance forte parmi les startups.&lt;/p&gt;
+
+&lt;p&gt;Pour les futurs candidats lors des prochaines éditions, je conseillerais de penser usage avant de penser données. Les opportunités autour de l’open data sont innombrables, c’est un domaine encore quasi vierge dans lequel de nombreuses startups vont s’engouffrer dans les années à venir. Cependant ce contexte pousse à la vigilance, car il sera très facile de produire des applications ou services qui ne servent à rien… C’est pourquoi je conseille à tous les prochains candidats de partir d’une idée d’usage, puis de rechercher si des nouvelles données peuvent permettre de servir cet usage.&lt;/p&gt;
+
+&lt;p&gt;Il faut donc conseiller aux candidats des prochaines éditions de se focaliser sur des projets concrets, actionnables et durables, des projets pour lesquels l’usage et l’utilité ne seraient pas remis en question.&lt;/p&gt;
+</description>
+      <pubDate>
+
+
+
+27
+
+novembre
+
+  2013
+</pubDate>
+      <link>http://localhost:4000/actualites/concours-dataconnexions-number-4-entretien-avec-frederic-mazzella-president-du-jury/</link>
+      <guid isPermaLink="true">http://localhost:4000/actualites/concours-dataconnexions-number-4-entretien-avec-frederic-mazzella-president-du-jury/</guid>
+    </item>
+    
+    <item>
+      <title>Concours Dataconnexions#4 : le palmarès des lauréats</title>
+      <description>&lt;h3 id=&quot;prix-spécial-evasion--guido-et-vamos-a-la-playa&quot;&gt;Prix Spécial Evasion : Guido et Vamos a La Playa&lt;/h3&gt;
+
+&lt;p&gt;Sur la route, Guido accompagne les voyageurs sur toutes les autoroutes et donne des infos sur les paysages, les villes et les endroits pour s’arrêter. Ou à la plage, Vamos a La Playa est l’outil en ligne et collaboratif pour trouver la meilleure plage adaptée aux souhaits des vacanciers. &lt;a href=&quot;http://www.vamosalaplaya.eu/&quot; target=&quot;_blank&quot;&gt;www.vamosalaplaya.eu&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;prix-spécial-territoire--cute-gis-et-métanol&quot;&gt;Prix Spécial Territoire : Cute GIS et Métanol&lt;/h3&gt;
+
+&lt;p&gt;Pour créer et partager en quelques clics des cartes personnalisées CuteGIS est la plateforme Open Source à utiliser cutegis.fr. Métanol accompagne les collectivités et services de l’État qui ouvrent et partagent leurs données  et favorise la rencontre des ces données avec leurs communautés. &lt;a href=&quot;http://www.comarquage.fr/&quot; target=&quot;_blank&quot;&gt;www.comarquage.fr&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;prix-utilité-publique--open-meteo-forecast&quot;&gt;Prix Utilité Publique : Open Meteo Forecast&lt;/h3&gt;
+
+&lt;p&gt;Pour les sportifs, les vacanciers, les restaurateurs ou tous ceux pour qui le temps a de l’importance : Open Météo Forecast fournit des prévisions affinées, jusqu’aux effets météo locaux, à partir de données atmosphériques ou géographiques.&lt;/p&gt;
+
+&lt;h3 id=&quot;prix-grand-public--open-food-facts&quot;&gt;Prix Grand Public : Open Food Facts&lt;/h3&gt;
+
+&lt;p&gt;Open Food Facts vous permet de décrypter et comparer les étiquettes de produit alimentaire : vous pouvez enfin savoir ce que vous mangez !  &lt;a href=&quot;https://fr.openfoodfacts.org/&quot; target=&quot;_blank&quot;&gt;http://fr.openfoodfacts.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;prix-services-de-proximité--calendeev&quot;&gt;Prix Services de proximité : Calendeev&lt;/h3&gt;
+
+&lt;p&gt;Calendeev  est un agenda personnalisé qui propose en temps réel les meilleures sorties afin qu’aucun de vos événements favoris ne vous échappe.&lt;/p&gt;
+
+&lt;h3 id=&quot;prix-professionnel---le-veilleurfr&quot;&gt;Prix Professionnel :  Le veilleur.fr&lt;/h3&gt;
+
+&lt;p&gt;Le-veilleur.fr simplifie l’accès à la commande publique pour les entreprises, en rendant les opportunités commerciales visibles et accessibles à tous.&lt;a href=&quot;http://www.le-veilleur.fr/&quot; target=&quot;_blank&quot;&gt; www.le-veilleur.fr&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Au cours de cette cérémonie clôturée par Fleur Pellerin, ministre déléguée chargée des PME, de l’innovation et de l’économie numérique, le gouvernement met en avant les innovations liées à l’open data. Etalab, mission chargée de l’ouverture des données publiques au sein du Secrétariat général pour la modernisation de l’action publique organise les concours Dataconnexion et récompense ainsi les créateurs de projets et partage avec eux les ambitions de l’open data.&lt;/p&gt;
+</description>
+      <pubDate>
+
+
+
+5
+
+décembre
+
+  2013
+</pubDate>
+      <link>http://localhost:4000/actualites/concours-dataconnexions-number-4-le-palmares-des-laureats/</link>
+      <guid isPermaLink="true">http://localhost:4000/actualites/concours-dataconnexions-number-4-le-palmares-des-laureats/</guid>
+    </item>
+    
+    
+    <item>
+      <title>Une 2ème promotion d’entrepreneurs d’intérêt général entre aujourd’hui dans l’administration !</title>
+      <description>&lt;p&gt;Après le succès de la première promotion, réunissant 11 entrepreneurs, une nouvelle promotion de 28 entrepreneurs fait son entrée dans l’administration pour l’année 2018.&lt;/p&gt;
+
+&lt;p&gt;Sélectionnés parmi plus de 200 candidats par un jury réunissant des membres de l’administration et de la société civile, les entrepreneurs d’intérêt général intègrent aujourd’hui leur administration d’accueil pour résoudre 13 défis, parmi lesquels : lutte contre la fraude, détection d’entreprises en difficulté, sécurité maritime, cartographie des acteurs de l’innovation sociale, valorisation des données de santé, accueil numérique des services de gendarmerie, etc.&lt;/p&gt;
+
+&lt;p&gt;Les entrepreneurs d’intérêt général travailleront en équipe et mobiliseront leurs compétences en développement, datascience et design pour concevoir des services et produits numériques à destination des agents publics et des usagers. Ils seront accompagnés de leurs mentors, membres de l’administration, et seront en interaction constante avec les services de la DINSIC, en particulier Etalab et l’incubateur de services numériques ainsi qu’avec les communautés numériques ; et ce afin de diffuser au sein des ministères des méthodes et techniques liées à la circulation des données, l’agilité, la culture numérique, et l’ouverture.&lt;/p&gt;
+
+&lt;p&gt;Découvrez en détail &lt;a href=&quot;https://entrepreneur-interet-general.etalab.gouv.fr/&quot;&gt;les défis et les profils de la 2ème promotion EIG&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote class=&quot;encadre&quot; role=&quot;presentation&quot;&gt;
+  &lt;h3 id=&quot;le-programme-entrepreneure-dintérêt-général-en-bref&quot;&gt;Le programme Entrepreneur.e d’intérêt général en bref&lt;/h3&gt;
+  &lt;ul&gt;
+    &lt;li&gt;13 défis d’intérêt général&lt;/li&gt;
+    &lt;li&gt;28 talents recrutés en CDD de 10 mois à compter de janvier 2018&lt;/li&gt;
+    &lt;li&gt;Une équipe de 2 à 3 entrepreneur·e·s d’intérêt général par défi, encadré par un mentor opérationnel et suivi par un mentor stratégique au sein des administrations d’accueil&lt;/li&gt;
+    &lt;li&gt;Des sessions de mentoring animées par Etalab&lt;/li&gt;
+    &lt;li&gt;Une ouverture à l’écosystème numérique&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Le programme « Entrepreneur.e d’intérêt général » est  financé par le fonds « Transition numérique de l’État et modernisation de l’action publique » du Programme d’Investissements d’Avenir. Il est porté par la &lt;strong&gt;Présidence de la République&lt;/strong&gt;, soutenu par &lt;strong&gt;Mounir Mahjoubi, secrétaire d’État auprès du Premier ministre chargé du numérique,&lt;/strong&gt; et piloté par la mission &lt;strong&gt;Etalab&lt;/strong&gt; au sein de la &lt;strong&gt;direction interministérielle du numérique et du système d’information et de communication de l’État (DINSIC).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Des photos et contacts pour témoignages peuvent être transmis sur demande.&lt;/p&gt;
+
+</description>
+      <pubDate>Mon, 15 Jan 2018 23:00:00 +0100</pubDate>
+      <link>http://localhost:4000/espace-presse/une-2eme-promotion-d-entrepreneurs-d-interet-general-entre-aujourd-hui-dans-l-administration/</link>
+      <guid isPermaLink="true">http://localhost:4000/espace-presse/une-2eme-promotion-d-entrepreneurs-d-interet-general-entre-aujourd-hui-dans-l-administration/</guid>
+    </item>
+    
+    <item>
+      <title>Publication du socle interministériel des logiciels libres (SILL) 2018 :  le catalogue de référence des logiciels libres recommandés par l’État</title>
+      <description>&lt;p&gt;Fruit d’un travail de recensement effectué par des communautés d’agents informaticiens de l’État, d’opérateurs publics et de collectivités territoriales, &lt;strong&gt;le SILL recense l’ensemble des alternatives libres testées et approuvées par au moins une entité publique&lt;/strong&gt;, pour une utilisation &lt;strong&gt;répondant aux besoins des administrations françaises&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Sous l’impulsion de la DINSIC et validée en comité interministériel, cette édition 2018 du SILL (PDF) répertorie &lt;strong&gt;152 solutions open source&lt;/strong&gt; sur lesquelles les pouvoirs publics - comme les adeptes du libre - peuvent trouver un cadre de convergence de logiciels à privilégier.&lt;/p&gt;
+
+&lt;p&gt;Par catégorie (bureautique, développement, multimédia, messagerie, navigation…), &lt;strong&gt;le SILL 2018 présente le logiciel conseillé selon l’usage souhaité&lt;/strong&gt; (Firefox pour la navigation web, Keepass pour la gestion des mots de passe, LibreOffice pour la bureautique, BlueGriffon pour l’édition HTML, etc.) &lt;strong&gt;ainsi qu’un cas d’usage, le statut - recommandé, en observation, en fin de vie - la licence ou encore la compatibilité avec les principaux systèmes d’exploitation.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Parmi les &lt;strong&gt;23 nouveautés&lt;/strong&gt; de cette édition 2018, RocketChat (messagerie instantanée), Qwant (extension pour Firefox du moteur de recherche respectant la vie privée sur internet), Ublock Origin (bloqueur des publicités et des pisteurs), JaCoCo (mesure de la qualité et sécurité de code source en Java) ou encore  Swarm (orchestrateur de containers) font leur entrée.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://references.modernisation.gouv.fr/socle-logiciels-libres&quot; target=&quot;_blank&quot;&gt;En savoir plus sur le SILL&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote class=&quot;lien-important&quot;&gt;
+  &lt;p&gt;&lt;a href=&quot;http://references.modernisation.gouv.fr/sites/default/files/SILL%202018%20-%20socle%20interministeriel%20de%20logiciels%20libres.pdf&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Consulter le socle interministériel de logiciels libres 2018 (pdf)&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+      <pubDate>Mon, 12 Feb 2018 11:38:00 +0100</pubDate>
+      <link>http://localhost:4000/espace-presse/publication-du-socle-interministeriel-des-logiciels-libres-sill-2018-le-catalogue-de-reference-des-logiciels-libres-recommandes-par-letat/</link>
+      <guid isPermaLink="true">http://localhost:4000/espace-presse/publication-du-socle-interministeriel-des-logiciels-libres-sill-2018-le-catalogue-de-reference-des-logiciels-libres-recommandes-par-letat/</guid>
+    </item>
+    
+    <item>
+      <title>5e édition du panorama des grands projets SI de l’État : 61 chantiers informatiques à la loupe</title>
+      <description>&lt;p&gt;Cette 5e édition passe en revue &lt;strong&gt;61 grands projets informatiques&lt;/strong&gt; en cours de développement ou de déploiement au sein des ministères et de leurs partenaires, pour un coût total de &lt;strong&gt;2,83 milliards d’euros.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Deux nouveaux projets font leur entrée dans cette 5e édition du panorama :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Le projet OSHIMAE :&lt;/strong&gt; mise en place d’une plateforme cloud partagée entre le ministère de l’Agriculture et de l’Alimentation, le ministère de la Transition écologique et solidaire et l’IGN, et création d’une offre de géoservices qui sera hébergée sur celle-ci.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;L’évolution de l’infocentre RH IRHIS&lt;/strong&gt; contribuant à la stratégie de modernisation du système d’information RH (SIRH).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Le réseau interministériel de l’Etat&lt;/strong&gt; (RIE), piloté par un service à compétence nationale au sein de la DINSIC, sort du panorama. Son déploiement initial achevé en 2017, il relie déjà l’ensemble des ministères (hors ministère des Armées) entre eux et avec leurs partenaires.&lt;/p&gt;
+
+&lt;p&gt;Les projets &lt;strong&gt;Alpha&lt;/strong&gt; (logiciel de gestion des achats du ministère des Armées) et &lt;strong&gt;Chorus pro&lt;/strong&gt; (portail unique pour le dépôt, la réception et la transmission des factures électroniques destinées à l’État), désormais opérationnels, sortiront de la prochaine édition du panorama.&lt;/p&gt;
+
+&lt;p&gt;La durée moyenne d’un projet reste constante, autour de 6,2 ans. &lt;strong&gt;Le taux d’écart budgétaire&lt;/strong&gt; est stable à 26%. &lt;strong&gt;Le taux d’écart calendaire&lt;/strong&gt; s’est quant à lui accentué (+7 points), notamment car certains projets ont vu leurs périmètres évoluer, soit par l’ajout de fonctionnalités, soit du fait de nouvelles mesures de transformation publique les impactant, &lt;strong&gt;ce qui montre que la sécurité des budgets et calendriers est à renforcer.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Pour y parvenir, &lt;strong&gt;la DINSIC&lt;/strong&gt;, en concertation avec &lt;strong&gt;le secrétaire d’État chargé du Numérique Mounir Mahjoubi&lt;/strong&gt;, lance des actions d’évaluation et d’appui auprès de certains ministères. Elles permettront d’identifier les axes de sécurisation et d’optimisation de ces chantiers mais aussi d’anticiper et éviter certaines dérives potentielles.&lt;/p&gt;
+
+&lt;blockquote class=&quot;lien-important&quot;&gt;
+  &lt;p&gt;&lt;a href=&quot;/publications/panorama-grands-projets-si/&quot; target=&quot;_blank&quot;&gt;Consulter la 5e édition du panorama&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Consultez l’ensemble des données de cette édition et des précédentes en open data sur la plateforme&lt;/strong&gt; &lt;a href=&quot;https://www.data.gouv.fr/fr/datasets/panorama-des-grands-projets-si-de-letat-1/&quot; target=&quot;_blank&quot;&gt;data.gouv.fr&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;citation&quot;&gt;
+  &lt;p&gt;&lt;em&gt;En tant que secrétaire d’État chargé du Numérique, je suis pleinement engagé pour plus de transparence sur les investissements SI de l’État. Cela passe notamment par la publication en open data de ses données de manière très régulière et permet à la fois de présenter aux citoyens comment est utilisé l’argent public, mais aussi d’améliorer la conduite de ces grands projets qui ont pour objectif de répondre aux besoins des Français, des associations, des entreprises et des administrations.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote class=&quot;auteur-citation&quot;&gt;
+  &lt;p&gt;Mounir Mahjoubi, secrétaire d’Etat auprès du Premier ministre, chargé du Numérique.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</description>
+      <pubDate>Mon, 26 Mar 2018 11:03:00 +0200</pubDate>
+      <link>http://localhost:4000/espace-presse/5eme-edition-du-panorama-des-grands-projets-si-de-letat-61-chantiers-informatiques-a-la-loupe/</link>
+      <guid isPermaLink="true">http://localhost:4000/espace-presse/5eme-edition-du-panorama-des-grands-projets-si-de-letat-61-chantiers-informatiques-a-la-loupe/</guid>
+    </item>
+    
+    <item>
+      <title>L’administrateur général des données remet son 2e rapport : « la donnée comme infrastructure essentielle »</title>
+      <description>&lt;p&gt;Dans son rapport, l’administrateur général des données dresse un état des lieux des pratiques des administrations en
+matière de production, de circulation et d’exploitation des données, et relève les progrès accomplis depuis le rapport précédent.&lt;/p&gt;
+
+&lt;p&gt;Il présente des retours d’expérience d’utilisation de la donnée dans le domaine de la lutte contre le chômage, de
+l’aide aux entreprises et de l’aide à la décision pour les forces de sécurité intérieure.&lt;/p&gt;
+
+&lt;p&gt;Pour aller encore plus loin dans l’exploitation du potentiel de la donnée, il est nécessaire d’en garantir la
+qualité et la meilleure circulation. C’est pourquoi le rapport de l’AGD prône la création d’une infrastructure de la
+donnée, devenue aujourd’hui essentielle, au même titre qu’un réseau de transports, d’énergie ou de télécommunications.
+Il s’appuie pour ce faire sur une analyse comparée des approches de plusieurs pays européens (Royaume-Uni, Danemark,
+Estonie) en termes de cadre juridique, technique et économique.&lt;/p&gt;
+
+&lt;p&gt;Pour conclure, le rapport présente la feuille de route pour les deux prochaines années. Outre la poursuite de la mise
+à disposition des données et des infrastructures, elle prévoit notamment le renforcement du réseau des administrateurs
+ministériels des données et le développement d’une expertise en matière d’intelligence artificielle pour faire monter
+en puissance le rôle de l’État dans le paysage des données. Les récentes annonces du président de la République
+concrétisent déjà certaines de ces recommandations.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://agd.data.gouv.fr/2018/04/10/rapport-2016-1017-de-ladministrateur-general-des-donnees-la-donnee-comme-infrastructure-essentielle/&quot;&gt;Consulter le rapport 2016-2017 de l’administrateur général des données « La donnée comme infrastructure essentielle »&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote class=&quot;encadre&quot; role=&quot;presentation&quot;&gt;
+  &lt;h3 id=&quot;ladministrateur-général-des-données-en-bref&quot;&gt;L’administrateur général des données en bref&lt;/h3&gt;
+  &lt;p&gt;La donnée est devenue un outil un outil indispensable à la transformation de l’action publique. Placé sous l’autorité du Premier ministre, l’administrateur général des données (AGD), a pour rôle de créer les conditions pour que l’État maîtrise ses données, les utilise à bon escient, les partage et en exploite toute la richesse dans le pilotage de ses politiques publiques.
+Henri Verdier, directeur interministériel du numérique et du système d’information et de communication de l’État, occupe cette fonction depuis sa création en 2014.
+&lt;img src=&quot;/uploads/timeline-rapport-2.jpg&quot; alt=&quot;Timeline&quot; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+      <pubDate>Tue, 10 Apr 2018 00:00:00 +0200</pubDate>
+      <link>http://localhost:4000/espace-presse/l-administrateur-general-des-donnees-remet-son-2e-rapport-la-donnee-comme-infrastructure-essentielle/</link>
+      <guid isPermaLink="true">http://localhost:4000/espace-presse/l-administrateur-general-des-donnees-remet-son-2e-rapport-la-donnee-comme-infrastructure-essentielle/</guid>
+    </item>
+    
+    <item>
+      <title>Transparence : La DINSIC publie ses avis sur les  grands projets informatiques de l’État</title>
+      <description>&lt;p&gt;Afin de garantir la conformité &lt;strong&gt;des grands projets informatiques de l’État&lt;/strong&gt; et leur déploiement effectif, tout projet de plus de 9 millions d’euros doit depuis 2014 être soumis au directeur de la DINSIC pour avis conforme. Chaque projet est alors évalué selon 5 axes : stratégie, finances, gouvernance, réalisation et planning.&lt;/p&gt;
+
+&lt;p&gt;Dans une &lt;strong&gt;volonté de transparence et d‘ouverture,&lt;/strong&gt; et dans la continuité de la Loi pour une République numérique, la liste de ces avis sera désormais publiée par la DINSIC, et enrichie régulièrement. Les avis des projets classifiés ou ceux faisant actuellement l’objet d’un appel d’offre seront publiés dans un second temps.&lt;/p&gt;
+
+&lt;p&gt;Chaque avis rendu est accompagné de &lt;strong&gt;recommandations spécifiant les axes d’amélioration&lt;/strong&gt; à prendre en compte pour le bon déroulement du projet. Tous les projets ayant fait l’objet d’un avis conforme sont suivis dans le cadre du &lt;a href=&quot;www.modernisation.gouv.fr/outils-et-methodes-pour-transformer/panorama-des-grands-projets-si-de-letat&quot; target=&quot;blank&quot;&gt;panorama des grands projets du SI de l’État &lt;/a&gt;que la DINSIC publie depuis novembre 2016.&lt;/p&gt;
+
+&lt;blockquote class=&quot;lien-important&quot;&gt;
+  &lt;p&gt;&lt;a href=&quot;www.modernisation.gouv.fr/outils-et-methodes-pour-transformer/projets-informatiques-de-letat-avis-conformes-emis-par-la-dinsic&quot; target=&quot;blank&quot;&gt;Consulter la liste des avis conformes émis par la DINSIC sur les grands projets SI de l’État &lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;citation&quot;&gt;
+  &lt;p&gt;&lt;em&gt;La publication de ces avis renouvelle nos engagements en faveur d’une action publique plus transparente et collaborative. C’est une priorité de notre gouvernement, une demande impérieuse des citoyens, et la seule réponse possible pour rendre le service public plus proche des usagers et ainsi renouveler notre démocratie grâce au numérique.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote class=&quot;auteur-citation&quot;&gt;
+  &lt;p&gt;Mounir Mahjoubi, secrétaire d’Etat auprès du Premier ministre, chargé du Numérique.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+      <pubDate>Tue, 24 Apr 2018 16:55:00 +0200</pubDate>
+      <link>http://localhost:4000/espace-presse/transparence-la-dinsic-publie-ses-avis-sur-les-grands-projets-informatiques-de-letat/</link>
+      <guid isPermaLink="true">http://localhost:4000/espace-presse/transparence-la-dinsic-publie-ses-avis-sur-les-grands-projets-informatiques-de-letat/</guid>
+    </item>
+    
+    <item>
+      <title>Le gouvernement lance l’expérimentation de l’intelligence artificielle dans l’administration</title>
+      <description>Destiné aux opérateurs directs de services publics au niveau de l’État (ministère, opérateur national, etc.), cet AMI
+s’adresse essentiellement à des acteurs publics désireux d’expérimenter à la fois des approches (techniques
+d’intelligence artificielle) et des modes de travail innovants (méthodes « agiles ») pour aborder sous un autre angle
+leurs problématiques métier. Pendant 10 mois (sur la période 2018 et 2019), les lauréats bénéficieront
+d’un accompagnement :
+
+* technique, pour monter en compétence sur les technologies d'intelligence artificielle,
+* stratégique, pour appréhender la transformation du métier associée aux technologies d'intelligence artificielle.
+ 
+
+À la clé ? Un prototype fonctionnel expérimenté auprès d’utilisateurs (agents ou administrés).
+
+Les lauréats seront sélectionnés sur les critères suivants :
+
+* Bénéfices potentiels internes et externes pour l’action publique, liés à l’utilisation de l’IA sur le périmètre métier proposé ;
+* Pertinence technique du projet ;
+* Composition de l’équipe d’agents publics impliqués dans le projet ;
+* Existence et accessibilité des données nécessaires ;
+* Prise en compte des risques éthiques.
+
+&gt; Avec cette expérimentation, nous montrons que l’État aussi est prêt à se saisir du potentiel de l’Intelligence
+artificielle pour transformer l’administration en profondeur et libérer la créativité de ses agents, afin d’offrir
+aux citoyens un service public plus performant et proche de leurs besoins
+{: .citation}
+&gt; Mounir Mahjoubi, secrétaire d’État auprès du Premier ministre, chargé du Numérique
+{: .auteur-citation}
+
+
+</description>
+      <pubDate>Thu, 14 Jun 2018 00:00:00 +0200</pubDate>
+      <link>http://localhost:4000/espace-presse/le-gouvernement-lance-l-experimentation-de-l-intelligence-artificielle-dans-l-administration/</link>
+      <guid isPermaLink="true">http://localhost:4000/espace-presse/le-gouvernement-lance-l-experimentation-de-l-intelligence-artificielle-dans-l-administration/</guid>
+    </item>
+    
+    <item>
+      <title>Le gouvernement lance l’expérimentation  de l’intelligence artificielle dans l’administration</title>
+      <description>&lt;p&gt;Pour initier ce mouvement, &lt;strong&gt;la direction interministérielle du numérique et du système d’information et de communication de l’Etat (DINSIC)&lt;/strong&gt; et la &lt;strong&gt;direction interministérielle de la transformation publique (DITP)&lt;/strong&gt; lancent, dans le cadre du &lt;strong&gt;programme d’investissements d’avenir (PIA)&lt;/strong&gt;, un appel à manifestation d’intérêt (AMI) pour expérimenter &lt;strong&gt;l’intelligence artificielle&lt;/strong&gt; dans les services publics. &lt;strong&gt;La Caisse des dépôts&lt;/strong&gt; et consignations (CDC) en est l’opérateur administratif et financier. Le &lt;strong&gt;Secrétariat général pour l’investissement (SGPI)&lt;/strong&gt; coordonne l’ensemble du PIA.&lt;/p&gt;
+
+&lt;p&gt;Destiné aux opérateurs directs de services publics au niveau de l’État (ministère, opérateur national, etc.), cet AMI s’adresse essentiellement à des acteurs publics désireux d’expérimenter à la fois des approches (techniques d’intelligence artificielle) et des modes de travail innovants (méthodes « agiles ») pour aborder sous un autre angle leurs problématiques métier. Pendant 10 mois (sur la période 2018 et 2019), les lauréats bénéficieront d’un accompagnement :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;technique, pour monter en compétence sur les technologies d’intelligence artificielle,&lt;/li&gt;
+  &lt;li&gt;stratégique, pour appréhender la transformation du métier associée aux technologies d’intelligence artificielle.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;À la clé ? Un prototype fonctionnel expérimenté auprès d’utilisateurs (agents ou administrés).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Les lauréats seront sélectionnés sur les critères suivants :&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Bénéfices potentiels internes et externes pour l’action publique, liés à l’utilisation de l’IA sur le périmètre métier proposé ;&lt;/li&gt;
+  &lt;li&gt;Pertinence technique du projet ;&lt;/li&gt;
+  &lt;li&gt;Composition de l’équipe d’agents publics impliqués dans le projet ;&lt;/li&gt;
+  &lt;li&gt;Existence et accessibilité des données nécessaires ;&lt;/li&gt;
+  &lt;li&gt;Prise en compte des risques éthiques.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&quot;citation&quot;&gt;
+  &lt;p&gt;&lt;em&gt;Avec cette expérimentation, nous montrons que l’État aussi est prêt à se saisir du potentiel de l’Intelligence artificielle pour transformer l’administration en profondeur et libérer la créativité de ses agents, afin d’offrir aux citoyens un service public plus performant et proche de leurs besoins&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote class=&quot;auteur-citation&quot;&gt;
+  &lt;p&gt;Mounir Mahjoubi, secrétaire d’État auprès du Premier ministre, chargé du Numérique.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;lien-important&quot;&gt;
+  &lt;p&gt;&lt;a href=&quot;https://www.demarches-simplifiees.fr/commencer/ami-intelligence-artificielle&quot; target=&quot;_blank&quot;&gt;Découvrez l’AMI « Pour le développement de l’intelligence artificielle dans l’administration »&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+      <pubDate>Thu, 14 Jun 2018 17:19:00 +0200</pubDate>
+      <link>http://localhost:4000/espace-presse/le-gouvernement-lance-lexperimentation-de-lintelligence-artificielle-dans-ladministration/</link>
+      <guid isPermaLink="true">http://localhost:4000/espace-presse/le-gouvernement-lance-lexperimentation-de-lintelligence-artificielle-dans-ladministration/</guid>
+    </item>
+    
+    <item>
+      <title>Fonds pour la transformation de l'action publique&amp;nbsp;: deux projets interministériels lauréats du 1er appel à projets</title>
+      <description>&lt;p&gt;Investir pour réformer l’État. C’est l’objectif du « Fonds pour la transformation de l’action publique » mis en place au titre du Grand plan d’investissement annoncé par le Premier ministre le 25 septembre 2017. Doté de 700 millions d’euros sur cinq ans, il est un des leviers du programme gouvernemental de transformation « Action publique 2022 ».
+Après un premier appel à projet plébiscité - 122 dossiers déposés par 15 ministères et 42 organismes publics - ce ne sont pas moins de 17 projets qui ont été sélectionnés par le comité de pilotage du fonds, présidé par le ministre de l’Action et des Comptes publics et rassemblant le secrétariat d’État au numérique, la direction interministérielle de la transformation publique (DITP), la direction du budget (DB), le secrétariat général pour l’investissement (SGPI) et des personnalités qualifiées.&lt;/p&gt;
+
+&lt;p&gt;Parmi les lauréats, 2 projets interministériels portés par la direction interministérielle du numérique et du système d’information et de communication de l’Etat (DINSIC) bénéficieront d’un financement total de 43,6 millions d’€ en 2018 :&lt;/p&gt;
+
+&lt;h2 id=&quot;mettre-en-place-une-offre-de-cloud-détat--france-cloud-243-millions-d&quot;&gt;Mettre en place une offre de cloud d’État : FRANCE CLOUD 24,3 millions d’€&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Objectif&lt;/em&gt; : développer des capacités cloud pour l’État afin accélérer la mise à disposition des services numériques
+innovants et de réduire les coûts d’hébergements et de développement du SI de l’État.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Bénéfices&lt;/em&gt; : Le cloud est un mode de consommation à l’usage de ressources informatiques à distance
+(infrastructures, services…). L’État pourra bénéficier d’une variété́ de solutions répondant à ses différents besoins,
+notamment de sécurité́, d’économies, ou de recours aux dernières innovations. Le cloud favorise également la mise en
+œuvre de méthodes agiles qui permettront d’accélérer le développement de services numériques innovants pour les usagers
+et les agents.&lt;/p&gt;
+
+&lt;h2 id=&quot;bâtir-le-socle-numérique-de-létat-plateforme--franceconnect-plateforme---phase-2-193-millions-d&quot;&gt;Bâtir le socle numérique de l’État Plateforme : FranceConnect Plateforme - Phase 2 19,3 millions d’€&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Objectif&lt;/em&gt; : Permettre d’offrir aux usagers des services simplifiés et personnalisés (tout en respectant leurs données
+personnelles), en décloisonnant les administrations par la mise en œuvre d’une plateforme d’échange de données et de
+gestion de l’identification numérique, ainsi qu’un service mutualisé de dématérialisation des démarches en ligne.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Bénéfices&lt;/em&gt; : De nombreuses démarches seront simplifiées pour les usagers, des informations déjà connues par
+l’administration ne seront pas demandées de nouveau grâce à la facilitation de l’échange de données entre
+administrations et un service commun d’identification, dans le respect de la protection des données. Cette plateforme
+facilitera le travail d’instruction des agents en limitant les tâches de saisie, au profit de l’expertise métier.&lt;/p&gt;
+
+&lt;blockquote class=&quot;citation&quot;&gt;
+  &lt;p&gt;Les usages numériques ne cessent de croître aujourd’hui, soutenus par des révolutions technologiques qui permettent
+l’émergence de nouveaux services, comme l’intelligence artificielle. Dans ce contexte, l’État se mobilise pour mettre
+le numérique au cœur de la transformation de ses politiques publiques et de l’amélioration des démarches
+administratives pour les citoyens. C’est pourquoi la majorité des projets retenus par le Fonds pour la Transformation
+de l’Action Publique mobilisent la donnée, le cloud ou encore des algorithmes d’IA. Ces projets lauréats constitueront
+un vrai socle interministériel d’innovation et de mutualisation numérique essentiel au service public de demain.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote class=&quot;auteur-citation&quot;&gt;
+  &lt;p&gt;&lt;strong&gt;Mounir Mahjoubi&lt;/strong&gt;, secrétaire d’État auprès du Premier ministre, chargé du Numérique&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0200</pubDate>
+      <link>http://localhost:4000/espace-presse/fonds-pour-la-transformation-de-l'action-publique-deux-projets-DINSIC-laureats-du-1er-appel-a-projets/</link>
+      <guid isPermaLink="true">http://localhost:4000/espace-presse/fonds-pour-la-transformation-de-l'action-publique-deux-projets-DINSIC-laureats-du-1er-appel-a-projets/</guid>
+    </item>
+    
+    <item>
+      <title>Lancement du site nosdemarches.gouv.fr pour évaluer les démarches en ligne</title>
+      <description>&lt;p&gt;Premier pas vers cet objectif annoncé lors du Comité interministériel de la transformation publique (CITP) du 1er février 2018 : le lancement en mars dernier, de demarches-simplifiees.fr, permettant aux administrations de dématérialiser facilement les démarches encore gérées sur papier. Le site comptabilise aujourd’hui plus de 30 000 démarches dématérialisées.
+La direction interministérielle du numérique et du système d’information et de communication de l’Etat (DINSIC) lance aujourd’hui le site &lt;a href=&quot;https://nosdemarches.gouv.fr/&quot;&gt;NosDemarches.gouv.fr&lt;/a&gt;, tableau de bord ouvert et contributif des démarches administratives accessibles en ligne. Destiné aux usagers, NosDemarches.gouv.fr répond à une double ambition :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;mesurer la satisfaction des usagers concernant les démarches en ligne existantes afin d’identifier les démarches exemplaires et celles ayant besoin d’être améliorées,&lt;/li&gt;
+  &lt;li&gt;identifier les démarches papier à dématérialiser en priorité.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Grâce à NosDemarches.gouv.fr, les usagers, les agents publics ou encore les spécialistes de l’accompagnement des utilisateurs (Maisons de services au public, Point d’Information et de Médiation Multi Services, etc.) pourront :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;donner leur avis sur une démarche en ligne (déclaration d’impôts, demande d’acte de naissance, etc.),&lt;/li&gt;
+  &lt;li&gt;consulter les avis exprimés par la communauté des utilisateurs,&lt;/li&gt;
+  &lt;li&gt;demander la dématérialisation d’une démarche papier,&lt;/li&gt;
+  &lt;li&gt;suivre l’avancement de la dématérialisation des démarches administratives.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Les associations d’usagers et organismes professionnels pourront également y signaler les éventuels problèmes rencontrés par leurs mandants en effectuant leurs démarches en ligne.&lt;/p&gt;
+
+&lt;p&gt;NosDemarches.gouv.fr sera régulièrement mis à jour grâce aux retours utilisateurs, dans une logique d’amélioration continue. Cet outil a vocation à devenir le tableau de bord de suivi de la dématérialisation des démarches administratives. Il affichera l’état d’avancement de la dématérialisation aussi bien pour les administrations que pour les usagers, dans une volonté de transparence.
+Le gouvernement franchit ainsi une nouvelle étape vers la totalité des démarches administratives accessibles en ligne, et espère ainsi rapprocher les citoyens de leurs administrations et améliorer la qualité des services publics rendus.&lt;/p&gt;
+
+&lt;blockquote class=&quot;citation&quot;&gt;
+  &lt;p&gt;Avec cet outil ouvert et contributif, nous souhaitons associer les usagers et utilisateurs de démarches en ligne à
+la transformation numérique de la France, car celle-ci ne peut se faire sans ceux qui la vivent au quotidien. Mieux
+connaître vos besoins, vos attentes et vos irritants pour orienter en conséquence la dématérialisation des services
+publics : c’est cela que permet la nouvelle plateforme nosdemarches.gouv.fr&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote class=&quot;auteur-citation&quot;&gt;
+  &lt;p&gt;&lt;strong&gt;Mounir Mahjoubi&lt;/strong&gt;, secrétaire d’État auprès du Premier ministre, chargé du Numérique&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+      <pubDate>Mon, 02 Jul 2018 00:00:00 +0200</pubDate>
+      <link>http://localhost:4000/espace-presse/lancement-du-site-nosdemarches.gouv.fr-pour-evaluer-les-demarches-en-ligne/</link>
+      <guid isPermaLink="true">http://localhost:4000/espace-presse/lancement-du-site-nosdemarches.gouv.fr-pour-evaluer-les-demarches-en-ligne/</guid>
+    </item>
+    
+    <item>
+      <title>Le gouvernement annonce sa stratégie en matière de cloud</title>
+      <description>&lt;p&gt;Pour accompagner la transformation numérique de l’État, le gouvernement se dote d’une stratégie d’utilisation de
+l’informatique en nuage (cloud) par l’administration. Son objectif ? Développer l’usage du cloud par les
+administrations, les établissements publics et les collectivités territoriales, d’ici à 3 ans.&lt;/p&gt;
+
+&lt;p&gt;Annoncée par Mounir Mahjoubi, secrétaire d’État auprès du Premier ministre, chargé du Numérique - à l’occasion de la
+Cloud week, la stratégie cloud de l’État s’appuie sur le développement d’une offre de cloud hybride en fonction des
+usages et de la sensibilité des données :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Un « cloud interne », dédié aux données et applications sensibles, accessible à l’ensemble des ministères sur une
+base OpenStack, via un portail interministériel. Hébergé par l’administration, ce cloud sera conforme aux exigences
+régaliennes de sécurité.&lt;/li&gt;
+  &lt;li&gt;Un « cloud dédié », pour les données et applications de sensibilité moindre, reposant sur une offre externe
+personnalisée pour les besoins de l’État et hébergé sur des infrastructures dédiées. L’ANSSI en supervisera la
+sécurité. Des briques FranceConnect Plateforme y seront pré-intégrées pour simplifier les développements de services et
+d’applications.&lt;/li&gt;
+  &lt;li&gt;Un « cloud externe », dédié aux données et applications peu sensibles, constituée d’un catalogue  d’offres
+cloud accessibles sur internet, porté par des centrales d’achat public pour en faciliter la commande.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Chaque administration pourra ainsi choisir la solution qui lui convient le mieux. &lt;br /&gt;
+Pour favoriser un cadre de compétition équitable entre les offres cloud et l’informatique traditionnelle, des
+adaptations réglementaires seront réalisées, notamment pour le code du patrimoine, afin de pouvoir recourir à des
+offres cloud sécurisées avec un hébergement hors du territoire national.
+À la clé de cette stratégie en matière de cloud, des avantages incontestables pour l’État, les services publics et les
+citoyens :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;L’amélioration de l’efficacité générale du système d’information des administrations publiques ;&lt;/li&gt;
+  &lt;li&gt;Une grande agilité dans le développement de services innovants, tant pour les besoins internes de l’administration
+que pour les services rendus aux administrés ;&lt;/li&gt;
+  &lt;li&gt;Une souplesse et une rapidité de déploiement des solutions hébergées sur cloud ;&lt;/li&gt;
+  &lt;li&gt;Une optimisation des coûts.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;En encourageant le recours au cloud, le gouvernement a également à cœur de  renforcer la souveraineté numérique de
+l’État et la maîtrise de ses données.&lt;/p&gt;
+
+&lt;blockquote class=&quot;citation&quot;&gt;
+  &lt;p&gt;Le cloud est l’un des chantiers prioritaires de la transformation numérique de l’État. Grâce à la stratégie cloud de l’État, nous souhaitons encourager les acteurs publics à s’emparer du cloud et à s’appuyer sur son potentiel pour rendre un meilleur service public aux citoyens tout en gardant la maîtrise des données sensibles.»&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote class=&quot;auteur-citation&quot;&gt;
+  &lt;p&gt;&lt;strong&gt;Mounir Mahjoubi&lt;/strong&gt;, secrétaire d’État auprès du Premier ministre, chargé du Numérique&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</description>
+      <pubDate>Tue, 03 Jul 2018 00:00:00 +0200</pubDate>
+      <link>http://localhost:4000/espace-presse/le-gouvernement-annonce-sa-strategie-en-matiere-de-cloud/</link>
+      <guid isPermaLink="true">http://localhost:4000/espace-presse/le-gouvernement-annonce-sa-strategie-en-matiere-de-cloud/</guid>
+    </item>
+    
+    
+    <item>
+      <title>Sommet européen des GovTech</title>
+      <description>&lt;p&gt;Comment les nouvelles technologies peuvent améliorer les services publics et les pratiques démocratiques ? C’est autour de cette question que le Sommet européen des GovTech rassemble, le 12 novembre 2018 à Paris, dirigeants politiques européens, ministres et maires de grandes villes, innovateurs, agents publics, entreprises et universitaires. Plus de 90 conférenciers échangeront sur des thématiques allant de la mobilité à la santé, de la sécurité au développement international, de l’e-gouvernement à l’engagement civique et citoyen.&lt;/p&gt;
+
+&lt;p&gt;La DINSIC participe à l’événement !&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Table ronde “Govtech stories - how public entrepreneurs build impactful digital products and change public services” de 10h25 à 11h15, salon Bertrand, Hôtel de ville de Paris&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;En présence de :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Laure Lucchesi, Director, Etalab, France&lt;/li&gt;
+  &lt;li&gt;Mohammed Adnène Trojette, Secrétaire général adjoint, Cour des comptes&lt;/li&gt;
+  &lt;li&gt;Frédéric Bardolle, Chef de l’incubateur de services numériques, ministère des Armées&lt;/li&gt;
+  &lt;li&gt;John Paul Farmer, Director, Microsoft Cities&lt;/li&gt;
+  &lt;li&gt;Tiphaine Phe-Neau, Entrepreneur d’intérêt général, Etalab&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Démos, de 8h à 18h, salon des Arcades de l’Hôtel de ville de Paris&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Toute la journée, venez découvrir les services numériques développés par l’incubateur de services numériques beta.gouv.fr, les entrepreneurs d’intérêt général et Etalab sur le stand de la DINSIC situé dans le salon des Arcades de l’Hôtel de ville de Paris.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;8h - 11h&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Prédisauvetage, sauver des vies en prévenant les accidents maritimes grâce aux données&lt;/li&gt;
+  &lt;li&gt;FranceConnect, simplifier l’accès aux services publics en ligne pour les citoyens&lt;/li&gt;
+  &lt;li&gt;Cobot, un chatbot au service de la contribution citoyenne&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;11h - 13h&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Brigade numérique, moderniser la fonction d’accueil en gendarmerie&lt;/li&gt;
+  &lt;li&gt;Plateforme des outils de consultation de l’État, déployer ses outils de consultation citoyenne en quelques clics&lt;/li&gt;
+  &lt;li&gt;OpenFisca, simuler l’impact de la loi, c’est possible !&lt;/li&gt;
+  &lt;li&gt;Data.gouv.fr, plateforme ouverte des données publiques françaises&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;13h - 15h30&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;My Company in France, le guide pratique pour créer son entreprise en France&lt;/li&gt;
+  &lt;li&gt;Demarches-simplifiees.fr, dématérialiser une démarche administrative en quelques clics&lt;/li&gt;
+  &lt;li&gt;Transport.data.gouv.fr, garantir aux usagers une information fiable sur leurs déplacements quotidiens&lt;/li&gt;
+  &lt;li&gt;Signaux Faibles, faire l’objet d’une détection et d’un accompagnement ciblé quand son entreprise est en difficulté&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;15h30 - 18h&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Plateforme Ouverte du Patrimoine, la richesse du patrimoine français à portée de clic&lt;/li&gt;
+  &lt;li&gt;Gobelins, consulter les objets et savoir-faire du Mobilier national en quelques clics&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&quot;citation&quot;&gt;
+  &lt;p&gt;Il n’y a jamais eu de meilleur moment pour rendre les services publics plus accessibles et plus abordables en utilisant de nouvelles solutions technologiques. Le Sommet des GovTech est une occasion unique pour les agents publics, les intellectuels, les innovateurs et les investisseurs de se rencontrer, d’échanger et de discuter de l’avenir de l’action publique et de la démocratie. Nous avons hâte de les accueillir tous à Paris.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote class=&quot;auteur-citation&quot;&gt;
+  &lt;p&gt;Emmanuel Macron, Président de la République française&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ce Forum s’inscrit dans une séquence de grands événements internationaux organisés à Paris sur le digital, la &lt;strong&gt;Paris Digital week&lt;/strong&gt;, avec &lt;a href=&quot;/agenda/paris-digital-week/&quot;&gt;Le Forum de Paris sur la paix&lt;/a&gt; (du 11 au 13 novembre) et le &lt;a href=&quot;/agenda/forum-sur-la-gouvernance-de-linternet-pour-un-internet-de-la-confiance/&quot;&gt;Forum pour une Gouvernance de l’Internet&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Fri, 19 Oct 2018 14:18:00 +0200</pubDate>
+      <link>http://localhost:4000/agenda/sommet-des-govtech/</link>
+      <guid isPermaLink="true">http://localhost:4000/agenda/sommet-des-govtech/</guid>
+    </item>
+    
+    <item>
+      <title>Tour de France demarches-simplifiees.fr - Étape PACA</title>
+      <description>&lt;p&gt;Cet automne, en lien avec les SGAR, l’équipe de &lt;em&gt;demarches-simplifiees.fr&lt;/em&gt; vient à la rencontre des agents publics, sur tout le territoire, pour leur &lt;strong&gt;présenter la plateforme de dématérialisation mise à leur disposition gratuitement par la DINSIC.&lt;/strong&gt; Ils apprendront à &lt;strong&gt;créer rapidement une démarche en ligne&lt;/strong&gt;, leur permettant de remplacer un formulaire encore géré sur papier.
+Plus largement, cette journée est aussi l’occasion de les &lt;strong&gt;sensibiliser aux enjeux de la dématérialisation et aux bénéfices du numérique&lt;/strong&gt;, tant pour leur environnement de travail que pour le service rendu à l’usager.&lt;/p&gt;
+
+&lt;h4 id=&quot;programme-de-la-journée-&quot;&gt;Programme de la journée :&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;9h30 - 12h :&lt;/strong&gt; La matinée sera consacrée aux enjeux généraux de la dématérialisation, à la présentation de &lt;em&gt;demarches-simplifiees.fr&lt;/em&gt; et à des retours d’expériences d’agents utilisant déjà cette plateforme.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;13h30 - 16h30 :&lt;/strong&gt; L’après-midi sera consacrée à des ateliers de formation au cours desquels les agents pourront identifier des cas d’usage, dématérialiser leurs procédures puis les tester et enfin en étudier les impacts sur l’organisation de leur service.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;retrouver-chacune-des-étapes-du-tour-de-france-&quot;&gt;Retrouver chacune des étapes du tour de France :&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Étape Normandie, le 26 septembre à Rouen&lt;/li&gt;
+  &lt;li&gt;Étape Occitanie, le 15 octobre à Toulouse&lt;/li&gt;
+  &lt;li&gt;Étape Nouvelle-Aquitaine, le 18 octobre à Bordeaux&lt;/li&gt;
+  &lt;li&gt;Étape Martinique, le 24 octobre à Fort-de-France&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Étape PACA, le 6 novembre à Marseille&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-corse/&quot;&gt;Étape Corse&lt;/a&gt;, le 8 novembre à Ajaccio&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-ile-de-france/&quot;&gt;Étape Ile-de-France&lt;/a&gt;, le 13 novembre à Paris&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-bourgogne-franche-comte/&quot;&gt;Étape Bourgogne Franche-Comté&lt;/a&gt;, le 14 novembre à Dijon&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-pays-de-la-loire/&quot;&gt;Étape Pays de la Loire&lt;/a&gt;, le 20 novembre à Nantes&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-bretagne/&quot;&gt;Étape Bretagne&lt;/a&gt;, le 22 novembre à Rennes&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-hauts-de-france/&quot;&gt;Étape Hauts-de-France&lt;/a&gt;, le 27 novembre à Lille&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-grand-est/&quot;&gt;Étape Grand-Est&lt;/a&gt;, le 29 novembre à Metz&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-centre-val-de-loire/&quot;&gt;Étape Centre Val-de-Loire&lt;/a&gt;, le 5 décembre à Orléans&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-dot-fr-etape-auvergne-rhone-alpes/&quot;&gt;Étape Auvergne-Rhône-Alpes&lt;/a&gt;, le 7 décembre à Lyon&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Mon, 22 Oct 2018 12:01:00 +0200</pubDate>
+      <link>http://localhost:4000/agenda/tour-de-france-demarches-simplifiees-fr-etape-paca/</link>
+      <guid isPermaLink="true">http://localhost:4000/agenda/tour-de-france-demarches-simplifiees-fr-etape-paca/</guid>
+    </item>
+    
+    <item>
+      <title>Tour de France - demarches-simplifiees.fr - Étape Corse</title>
+      <description>&lt;p&gt;Cet automne, en lien avec les SGAR, l’équipe de &lt;em&gt;demarches-simplifiees.fr&lt;/em&gt; vient à la rencontre des agents publics, sur tout le territoire, pour leur &lt;strong&gt;présenter la plateforme de dématérialisation mise à leur disposition gratuitement par la DINSIC.&lt;/strong&gt; Ils apprendront à &lt;strong&gt;créer rapidement une démarche en ligne&lt;/strong&gt;, leur permettant de remplacer un formulaire encore géré sur papier.
+Plus largement, cette journée est aussi l’occasion de les &lt;strong&gt;sensibiliser aux enjeux de la dématérialisation et aux bénéfices du numérique&lt;/strong&gt;, tant pour leur environnement de travail que pour le service rendu à l’usager.&lt;/p&gt;
+
+&lt;h4 id=&quot;programme-de-la-journée-&quot;&gt;Programme de la journée :&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;9h30 - 12h :&lt;/strong&gt; La matinée sera consacrée aux enjeux généraux de la dématérialisation, à la présentation de &lt;em&gt;demarches-simplifiees.fr&lt;/em&gt; et à des retours d’expériences d’agents utilisant déjà cette plateforme.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;13h30 - 16h30 :&lt;/strong&gt; L’après-midi sera consacrée à des ateliers de formation au cours desquels les agents pourront identifier des cas d’usage, dématérialiser leurs procédures puis les tester et enfin en étudier les impacts sur l’organisation de leur service.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;retrouver-chacune-des-étapes-du-tour-de-france-&quot;&gt;Retrouver chacune des étapes du tour de France :&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Étape Normandie, le 26 septembre à Rouen&lt;/li&gt;
+  &lt;li&gt;Étape Occitanie, le 15 octobre à Toulouse&lt;/li&gt;
+  &lt;li&gt;Étape Nouvelle-Aquitaine, le 18 octobre à Bordeaux&lt;/li&gt;
+  &lt;li&gt;Étape Martinique, le 24 octobre à Fort-de-France&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-paca/&quot;&gt;Étape PACA&lt;/a&gt;, le 6 novembre à Marseille&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Étape Corse, le 8 novembre à Ajaccio&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-ile-de-france/&quot;&gt;Étape Ile-de-France&lt;/a&gt;, le 13 novembre à Paris&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-bourgogne-franche-comte/&quot;&gt;Étape Bourgogne Franche-Comté&lt;/a&gt;, le 14 novembre à Dijon&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-pays-de-la-loire/&quot;&gt;Étape Pays de la Loire&lt;/a&gt;, le 20 novembre à Nantes&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-bretagne/&quot;&gt;Étape Bretagne&lt;/a&gt;, le 22 novembre à Rennes&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-hauts-de-france/&quot;&gt;Étape Hauts-de-France&lt;/a&gt;, le 27 novembre à Lille&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-grand-est/&quot;&gt;Étape Grand-Est&lt;/a&gt;, le 29 novembre à Metz&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-centre-val-de-loire/&quot;&gt;Étape Centre Val-de-Loire&lt;/a&gt;, le 5 décembre à Orléans&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-dot-fr-etape-auvergne-rhone-alpes/&quot;&gt;Étape Auvergne-Rhône-Alpes&lt;/a&gt;, le 7 décembre à Lyon&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Tue, 23 Oct 2018 14:40:00 +0200</pubDate>
+      <link>http://localhost:4000/agenda/tour-de-france-demarches-simplifiees-fr-etape-corse/</link>
+      <guid isPermaLink="true">http://localhost:4000/agenda/tour-de-france-demarches-simplifiees-fr-etape-corse/</guid>
+    </item>
+    
+    <item>
+      <title>Tour de France - demarches-simplifiees.fr - Étape Ile-de-France</title>
+      <description>&lt;p&gt;Cet automne, en lien avec les SGAR, l’équipe de &lt;em&gt;demarches-simplifiees.fr&lt;/em&gt; vient à la rencontre des agents publics, sur tout le territoire, pour leur &lt;strong&gt;présenter la plateforme de dématérialisation mise à leur disposition gratuitement par la DINSIC.&lt;/strong&gt; Ils apprendront à &lt;strong&gt;créer rapidement une démarche en ligne&lt;/strong&gt;, leur permettant de remplacer un formulaire encore géré sur papier.
+Plus largement, cette journée est aussi l’occasion de les &lt;strong&gt;sensibiliser aux enjeux de la dématérialisation et aux bénéfices du numérique&lt;/strong&gt;, tant pour leur environnement de travail que pour le service rendu à l’usager.&lt;/p&gt;
+
+&lt;h4 id=&quot;programme-de-la-journée-&quot;&gt;Programme de la journée :&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;9h30 - 12h :&lt;/strong&gt; La matinée sera consacrée aux enjeux généraux de la dématérialisation, à la présentation de &lt;em&gt;demarches-simplifiees.fr&lt;/em&gt; et à des retours d’expériences d’agents utilisant déjà cette plateforme.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;13h30 - 16h30 :&lt;/strong&gt; L’après-midi sera consacrée à des ateliers de formation au cours desquels les agents pourront identifier des cas d’usage, dématérialiser leurs procédures puis les tester et enfin en étudier les impacts sur l’organisation de leur service.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;retrouver-chacune-des-étapes-du-tour-de-france-&quot;&gt;Retrouver chacune des étapes du tour de France :&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Étape Normandie, le 26 septembre à Rouen&lt;/li&gt;
+  &lt;li&gt;Étape Occitanie, le 15 octobre à Toulouse&lt;/li&gt;
+  &lt;li&gt;Étape Nouvelle-Aquitaine, le 18 octobre à Bordeaux&lt;/li&gt;
+  &lt;li&gt;Étape Martinique, le 24 octobre à Fort-de-France&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-paca/&quot;&gt;Étape PACA&lt;/a&gt;, le 6 novembre à Marseille&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-corse/&quot;&gt;Étape Corse&lt;/a&gt;, le 8 novembre à Ajaccio&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Étape Ile-de-France, le 13 novembre à Paris&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-bourgogne-franche-comte/&quot;&gt;Étape Bourgogne Franche-Comté&lt;/a&gt;, le 14 novembre à Dijon&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-pays-de-la-loire/&quot;&gt;Étape Pays de la Loire&lt;/a&gt;, le 20 novembre à Nantes&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-bretagne/&quot;&gt;Étape Bretagne&lt;/a&gt;, le 22 novembre à Rennes&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-hauts-de-france/&quot;&gt;Étape Hauts-de-France&lt;/a&gt;, le 27 novembre à Lille&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-grand-est/&quot;&gt;Étape Grand-Est&lt;/a&gt;, le 29 novembre à Metz&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-centre-val-de-loire/&quot;&gt;Étape Centre Val-de-Loire&lt;/a&gt;, le 5 décembre à Orléans&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-dot-fr-etape-auvergne-rhone-alpes/&quot;&gt;Étape Auvergne-Rhône-Alpes&lt;/a&gt;, le 7 décembre à Lyon&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Tue, 23 Oct 2018 14:53:00 +0200</pubDate>
+      <link>http://localhost:4000/agenda/tour-de-france-demarches-simplifiees-fr-etape-ile-de-france/</link>
+      <guid isPermaLink="true">http://localhost:4000/agenda/tour-de-france-demarches-simplifiees-fr-etape-ile-de-france/</guid>
+    </item>
+    
+    <item>
+      <title>Tour de France - demarches-simplifiees.fr - Étape Bourgogne-Franche-Comté</title>
+      <description>&lt;p&gt;Cet automne, en lien avec les SGAR, l’équipe de &lt;em&gt;demarches-simplifiees.fr&lt;/em&gt; vient à la rencontre des agents publics, sur tout le territoire, pour leur &lt;strong&gt;présenter la plateforme de dématérialisation mise à leur disposition gratuitement par la DINSIC.&lt;/strong&gt; Ils apprendront à &lt;strong&gt;créer rapidement une démarche en ligne&lt;/strong&gt;, leur permettant de remplacer un formulaire encore géré sur papier.
+Plus largement, cette journée est aussi l’occasion de les &lt;strong&gt;sensibiliser aux enjeux de la dématérialisation et aux bénéfices du numérique&lt;/strong&gt;, tant pour leur environnement de travail que pour le service rendu à l’usager.&lt;/p&gt;
+
+&lt;h4 id=&quot;programme-de-la-journée-&quot;&gt;Programme de la journée :&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;9h30 - 12h :&lt;/strong&gt; La matinée sera consacrée aux enjeux généraux de la dématérialisation, à la présentation de &lt;em&gt;demarches-simplifiees.fr&lt;/em&gt; et à des retours d’expériences d’agents utilisant déjà cette plateforme.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;13h30 - 16h30 :&lt;/strong&gt; L’après-midi sera consacrée à des ateliers de formation au cours desquels les agents pourront identifier des cas d’usage, dématérialiser leurs procédures puis les tester et enfin en étudier les impacts sur l’organisation de leur service.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;retrouver-chacune-des-étapes-du-tour-de-france-&quot;&gt;Retrouver chacune des étapes du tour de France :&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Étape Normandie, le 26 septembre à Rouen&lt;/li&gt;
+  &lt;li&gt;Étape Occitanie, le 15 octobre à Toulouse&lt;/li&gt;
+  &lt;li&gt;Étape Nouvelle-Aquitaine, le 18 octobre à Bordeaux&lt;/li&gt;
+  &lt;li&gt;Étape Martinique, le 24 octobre à Fort-de-France&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-paca/&quot;&gt;Étape PACA&lt;/a&gt;, le 6 novembre à Marseille&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-corse/&quot;&gt;Étape Corse&lt;/a&gt;, le 8 novembre à Ajaccio&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-ile-de-france/&quot;&gt;Étape Ile-de-France&lt;/a&gt;, le 13 novembre à Paris&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Étape Bourgogne Franche-Comté, le 14 novembre à Dijon&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-pays-de-la-loire/&quot;&gt;Étape Pays de la Loire&lt;/a&gt;, le 20 novembre à Nantes&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-bretagne/&quot;&gt;Étape Bretagne&lt;/a&gt;, le 22 novembre à Rennes&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-hauts-de-france/&quot;&gt;Étape Hauts-de-France&lt;/a&gt;, le 27 novembre à Lille&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-grand-est/&quot;&gt;Étape Grand-Est&lt;/a&gt;, le 29 novembre à Metz&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-centre-val-de-loire/&quot;&gt;Étape Centre Val-de-Loire&lt;/a&gt;, le 5 décembre à Orléans&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-dot-fr-etape-auvergne-rhone-alpes/&quot;&gt;Étape Auvergne-Rhône-Alpes&lt;/a&gt;, le 7 décembre à Lyon&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Tue, 23 Oct 2018 15:01:00 +0200</pubDate>
+      <link>http://localhost:4000/agenda/tour-de-france-demarches-simplifiees-fr-etape-bourgogne-franche-comte/</link>
+      <guid isPermaLink="true">http://localhost:4000/agenda/tour-de-france-demarches-simplifiees-fr-etape-bourgogne-franche-comte/</guid>
+    </item>
+    
+    <item>
+      <title>Tour de France - demarches-simplifiees.fr - Étape Pays de la Loire</title>
+      <description>&lt;p&gt;Cet automne, en lien avec les SGAR, l’équipe de &lt;em&gt;demarches-simplifiees.fr&lt;/em&gt; vient à la rencontre des agents publics, sur tout le territoire, pour leur &lt;strong&gt;présenter la plateforme de dématérialisation mise à leur disposition gratuitement par la DINSIC.&lt;/strong&gt; Ils apprendront à &lt;strong&gt;créer rapidement une démarche en ligne&lt;/strong&gt;, leur permettant de remplacer un formulaire encore géré sur papier.
+Plus largement, cette journée est aussi l’occasion de les &lt;strong&gt;sensibiliser aux enjeux de la dématérialisation et aux bénéfices du numérique&lt;/strong&gt;, tant pour leur environnement de travail que pour le service rendu à l’usager.&lt;/p&gt;
+
+&lt;h4 id=&quot;programme-de-la-journée-&quot;&gt;Programme de la journée :&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;9h30 - 12h :&lt;/strong&gt; La matinée sera consacrée aux enjeux généraux de la dématérialisation, à la présentation de &lt;em&gt;demarches-simplifiees.fr&lt;/em&gt; et à des retours d’expériences d’agents utilisant déjà cette plateforme.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;13h30 - 16h30 :&lt;/strong&gt; L’après-midi sera consacrée à des ateliers de formation au cours desquels les agents pourront identifier des cas d’usage, dématérialiser leurs procédures puis les tester et enfin en étudier les impacts sur l’organisation de leur service.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;retrouver-chacune-des-étapes-du-tour-de-france-&quot;&gt;Retrouver chacune des étapes du tour de France :&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Étape Normandie, le 26 septembre à Rouen&lt;/li&gt;
+  &lt;li&gt;Étape Occitanie, le 15 octobre à Toulouse&lt;/li&gt;
+  &lt;li&gt;Étape Nouvelle-Aquitaine, le 18 octobre à Bordeaux&lt;/li&gt;
+  &lt;li&gt;Étape Martinique, le 24 octobre à Fort-de-France&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-paca/&quot;&gt;Étape PACA&lt;/a&gt;, le 6 novembre à Marseille&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-corse/&quot;&gt;Étape Corse&lt;/a&gt;, le 8 novembre à Ajaccio&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-ile-de-france/&quot;&gt;Étape Ile-de-France&lt;/a&gt;, le 13 novembre à Paris&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-bourgogne-franche-comte/&quot;&gt;Étape Bourgogne Franche-Comté&lt;/a&gt;, le 14 novembre à Dijon&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Étape Pays de la Loire, le 20 novembre à Nantes&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-bretagne/&quot;&gt;Étape Bretagne&lt;/a&gt;, le 22 novembre à Rennes&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-hauts-de-france/&quot;&gt;Étape Hauts-de-France&lt;/a&gt;, le 27 novembre à Lille&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-grand-est/&quot;&gt;Étape Grand-Est&lt;/a&gt;, le 29 novembre à Metz&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-centre-val-de-loire/&quot;&gt;Étape Centre Val-de-Loire&lt;/a&gt;, le 5 décembre à Orléans&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-dot-fr-etape-auvergne-rhone-alpes/&quot;&gt;Étape Auvergne-Rhône-Alpes&lt;/a&gt;, le 7 décembre à Lyon&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Tue, 23 Oct 2018 15:05:00 +0200</pubDate>
+      <link>http://localhost:4000/agenda/tour-de-france-demarches-simplifiees-fr-etape-pays-de-la-loire/</link>
+      <guid isPermaLink="true">http://localhost:4000/agenda/tour-de-france-demarches-simplifiees-fr-etape-pays-de-la-loire/</guid>
+    </item>
+    
+    <item>
+      <title>Tour de France - demarches-simplifiees.fr - Étape Bretagne</title>
+      <description>&lt;p&gt;Cet automne, en lien avec les SGAR, l’équipe de &lt;em&gt;demarches-simplifiees.fr&lt;/em&gt; vient à la rencontre des agents publics, sur tout le territoire, pour leur &lt;strong&gt;présenter la plateforme de dématérialisation mise à leur disposition gratuitement par la DINSIC.&lt;/strong&gt; Ils apprendront à &lt;strong&gt;créer rapidement une démarche en ligne&lt;/strong&gt;, leur permettant de remplacer un formulaire encore géré sur papier.
+Plus largement, cette journée est aussi l’occasion de les &lt;strong&gt;sensibiliser aux enjeux de la dématérialisation et aux bénéfices du numérique&lt;/strong&gt;, tant pour leur environnement de travail que pour le service rendu à l’usager.&lt;/p&gt;
+
+&lt;h4 id=&quot;programme-de-la-journée-&quot;&gt;Programme de la journée :&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;9h30 - 12h :&lt;/strong&gt; La matinée sera consacrée aux enjeux généraux de la dématérialisation, à la présentation de &lt;em&gt;demarches-simplifiees.fr&lt;/em&gt; et à des retours d’expériences d’agents utilisant déjà cette plateforme.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;13h30 - 16h30 :&lt;/strong&gt; L’après-midi sera consacrée à des ateliers de formation au cours desquels les agents pourront identifier des cas d’usage, dématérialiser leurs procédures puis les tester et enfin en étudier les impacts sur l’organisation de leur service.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;retrouver-chacune-des-étapes-du-tour-de-france-&quot;&gt;Retrouver chacune des étapes du tour de France :&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Étape Normandie, le 26 septembre à Rouen&lt;/li&gt;
+  &lt;li&gt;Étape Occitanie, le 15 octobre à Toulouse&lt;/li&gt;
+  &lt;li&gt;Étape Nouvelle-Aquitaine, le 18 octobre à Bordeaux&lt;/li&gt;
+  &lt;li&gt;Étape Martinique, le 24 octobre à Fort-de-France&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-paca/&quot;&gt;Étape PACA&lt;/a&gt;, le 6 novembre à Marseille&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-corse/&quot;&gt;Étape Corse&lt;/a&gt;, le 8 novembre à Ajaccio&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-ile-de-france/&quot;&gt;Étape Ile-de-France&lt;/a&gt;, le 13 novembre à Paris&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-bourgogne-franche-comte/&quot;&gt;Étape Bourgogne Franche-Comté&lt;/a&gt;, le 14 novembre à Dijon&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-pays-de-la-loire/&quot;&gt;Étape Pays de la Loire&lt;/a&gt;, le 20 novembre à Nantes&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Étape Bretagne, le 22 novembre à Rennes&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-hauts-de-france/&quot;&gt;Étape Hauts-de-France&lt;/a&gt;, le 27 novembre à Lille&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-grand-est/&quot;&gt;Étape Grand-Est&lt;/a&gt;, le 29 novembre à Metz&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-centre-val-de-loire/&quot;&gt;Étape Centre Val-de-Loire&lt;/a&gt;, le 5 décembre à Orléans&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-dot-fr-etape-auvergne-rhone-alpes/&quot;&gt;Étape Auvergne-Rhône-Alpes&lt;/a&gt;, le 7 décembre à Lyon&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Tue, 23 Oct 2018 16:21:00 +0200</pubDate>
+      <link>http://localhost:4000/agenda/tour-de-france-demarches-simplifiees-fr-etape-bretagne/</link>
+      <guid isPermaLink="true">http://localhost:4000/agenda/tour-de-france-demarches-simplifiees-fr-etape-bretagne/</guid>
+    </item>
+    
+    <item>
+      <title>Tour de France - demarches-simplifiees.fr - Étape Hauts-de-France</title>
+      <description>&lt;p&gt;Cet automne, en lien avec les SGAR, l’équipe de &lt;em&gt;demarches-simplifiees.fr&lt;/em&gt; vient à la rencontre des agents publics, sur tout le territoire, pour leur &lt;strong&gt;présenter la plateforme de dématérialisation mise à leur disposition gratuitement par la DINSIC.&lt;/strong&gt; Ils apprendront à &lt;strong&gt;créer rapidement une démarche en ligne&lt;/strong&gt;, leur permettant de remplacer un formulaire encore géré sur papier.
+Plus largement, cette journée est aussi l’occasion de les &lt;strong&gt;sensibiliser aux enjeux de la dématérialisation et aux bénéfices du numérique&lt;/strong&gt;, tant pour leur environnement de travail que pour le service rendu à l’usager.&lt;/p&gt;
+
+&lt;h4 id=&quot;programme-de-la-journée-&quot;&gt;Programme de la journée :&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;9h30 - 12h :&lt;/strong&gt; La matinée sera consacrée aux enjeux généraux de la dématérialisation, à la présentation de &lt;em&gt;demarches-simplifiees.fr&lt;/em&gt; et à des retours d’expériences d’agents utilisant déjà cette plateforme.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;13h30 - 16h30 :&lt;/strong&gt; L’après-midi sera consacrée à des ateliers de formation au cours desquels les agents pourront identifier des cas d’usage, dématérialiser leurs procédures puis les tester et enfin en étudier les impacts sur l’organisation de leur service.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;retrouver-chacune-des-étapes-du-tour-de-france-&quot;&gt;Retrouver chacune des étapes du tour de France :&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Étape Normandie, le 26 septembre à Rouen&lt;/li&gt;
+  &lt;li&gt;Étape Occitanie, le 15 octobre à Toulouse&lt;/li&gt;
+  &lt;li&gt;Étape Nouvelle-Aquitaine, le 18 octobre à Bordeaux&lt;/li&gt;
+  &lt;li&gt;Étape Martinique, le 24 octobre à Fort-de-France&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-paca/&quot;&gt;Étape PACA&lt;/a&gt;, le 6 novembre à Marseille&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-corse/&quot;&gt;Étape Corse&lt;/a&gt;, le 8 novembre à Ajaccio&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-ile-de-france/&quot;&gt;Étape Ile-de-France&lt;/a&gt;, le 13 novembre à Paris&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-bourgogne-franche-comte/&quot;&gt;Étape Bourgogne Franche-Comté&lt;/a&gt;, le 14 novembre à Dijon&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-pays-de-la-loire/&quot;&gt;Étape Pays de la Loire&lt;/a&gt;, le 20 novembre à Nantes&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-bretagne/&quot;&gt;Étape Bretagne&lt;/a&gt;, le 22 novembre à Rennes&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Étape Hauts-de-France, le 27 novembre à Lille&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-grand-est/&quot;&gt;Étape Grand-Est&lt;/a&gt;, le 29 novembre à Metz&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-centre-val-de-loire/&quot;&gt;Étape Centre Val-de-Loire&lt;/a&gt;, le 5 décembre à Orléans&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-dot-fr-etape-auvergne-rhone-alpes/&quot;&gt;Étape Auvergne-Rhône-Alpes&lt;/a&gt;, le 7 décembre à Lyon&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Tue, 23 Oct 2018 16:30:00 +0200</pubDate>
+      <link>http://localhost:4000/agenda/tour-de-france-demarches-simplifiees-fr-etape-hauts-de-france/</link>
+      <guid isPermaLink="true">http://localhost:4000/agenda/tour-de-france-demarches-simplifiees-fr-etape-hauts-de-france/</guid>
+    </item>
+    
+    <item>
+      <title>Tour de France - demarches-simplifiees.fr - Étape Grand-Est</title>
+      <description>&lt;p&gt;Cet automne, en lien avec les SGAR, l’équipe de &lt;em&gt;demarches-simplifiees.fr&lt;/em&gt; vient à la rencontre des agents publics, sur tout le territoire, pour leur &lt;strong&gt;présenter la plateforme de dématérialisation mise à leur disposition gratuitement par la DINSIC.&lt;/strong&gt; Ils apprendront à &lt;strong&gt;créer rapidement une démarche en ligne&lt;/strong&gt;, leur permettant de remplacer un formulaire encore géré sur papier.
+Plus largement, cette journée est aussi l’occasion de les &lt;strong&gt;sensibiliser aux enjeux de la dématérialisation et aux bénéfices du numérique&lt;/strong&gt;, tant pour leur environnement de travail que pour le service rendu à l’usager.&lt;/p&gt;
+
+&lt;h4 id=&quot;programme-de-la-journée-&quot;&gt;Programme de la journée :&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;9h30 - 12h :&lt;/strong&gt; La matinée sera consacrée aux enjeux généraux de la dématérialisation, à la présentation de &lt;em&gt;demarches-simplifiees.fr&lt;/em&gt; et à des retours d’expériences d’agents utilisant déjà cette plateforme.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;13h30 - 16h30 :&lt;/strong&gt; L’après-midi sera consacrée à des ateliers de formation au cours desquels les agents pourront identifier des cas d’usage, dématérialiser leurs procédures puis les tester et enfin en étudier les impacts sur l’organisation de leur service.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;retrouver-chacune-des-étapes-du-tour-de-france-&quot;&gt;Retrouver chacune des étapes du tour de France :&lt;/h4&gt;
+
+&lt;p&gt;** Étape Normandie, le 26 septembre à Rouen&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Étape Occitanie, le 15 octobre à Toulouse&lt;/li&gt;
+  &lt;li&gt;Étape Nouvelle-Aquitaine, le 18 octobre à Bordeaux&lt;/li&gt;
+  &lt;li&gt;Étape Martinique, le 24 octobre à Fort-de-France&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-paca/&quot;&gt;Étape PACA&lt;/a&gt;, le 6 novembre à Marseille&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-corse/&quot;&gt;Étape Corse&lt;/a&gt;, le 8 novembre à Ajaccio&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-ile-de-france/&quot;&gt;Étape Ile-de-France&lt;/a&gt;, le 13 novembre à Paris&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-bourgogne-franche-comte/&quot;&gt;Étape Bourgogne Franche-Comté&lt;/a&gt;, le 14 novembre à Dijon&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-pays-de-la-loire/&quot;&gt;Étape Pays de la Loire&lt;/a&gt;, le 20 novembre à Nantes&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-bretagne/&quot;&gt;Étape Bretagne&lt;/a&gt;, le 22 novembre à Rennes&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-hauts-de-france/&quot;&gt;Étape Hauts-de-France&lt;/a&gt;, le 27 novembre à Lille&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Étape Grand-Est, le 29 novembre à Metz&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-centre-val-de-loire/&quot;&gt;Étape Centre Val-de-Loire&lt;/a&gt;, le 5 décembre à Orléans&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-dot-fr-etape-auvergne-rhone-alpes/&quot;&gt;Étape Auvergne-Rhône-Alpes&lt;/a&gt;, le 7 décembre à Lyon&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Tue, 23 Oct 2018 16:32:00 +0200</pubDate>
+      <link>http://localhost:4000/agenda/tour-de-france-demarches-simplifiees-fr-etape-grand-est/</link>
+      <guid isPermaLink="true">http://localhost:4000/agenda/tour-de-france-demarches-simplifiees-fr-etape-grand-est/</guid>
+    </item>
+    
+    <item>
+      <title>Tour de France - demarches-simplifiees.fr - Étape Centre-Val-de-Loire</title>
+      <description>&lt;p&gt;Cet automne, en lien avec les SGAR, l’équipe de &lt;em&gt;demarches-simplifiees.fr&lt;/em&gt; vient à la rencontre des agents publics, sur tout le territoire, pour leur &lt;strong&gt;présenter la plateforme de dématérialisation mise à leur disposition gratuitement par la DINSIC.&lt;/strong&gt; Ils apprendront à &lt;strong&gt;créer rapidement une démarche en ligne&lt;/strong&gt;, leur permettant de remplacer un formulaire encore géré sur papier.
+Plus largement, cette journée est aussi l’occasion de les &lt;strong&gt;sensibiliser aux enjeux de la dématérialisation et aux bénéfices du numérique&lt;/strong&gt;, tant pour leur environnement de travail que pour le service rendu à l’usager.&lt;/p&gt;
+
+&lt;h4 id=&quot;programme-de-la-journée-&quot;&gt;Programme de la journée :&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;9h30 - 12h :&lt;/strong&gt; La matinée sera consacrée aux enjeux généraux de la dématérialisation, à la présentation de &lt;em&gt;demarches-simplifiees.fr&lt;/em&gt; et à des retours d’expériences d’agents utilisant déjà cette plateforme.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;13h30 - 16h30 :&lt;/strong&gt; L’après-midi sera consacrée à des ateliers de formation au cours desquels les agents pourront identifier des cas d’usage, dématérialiser leurs procédures puis les tester et enfin en étudier les impacts sur l’organisation de leur service.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;retrouver-chacune-des-étapes-du-tour-de-france-&quot;&gt;Retrouver chacune des étapes du tour de France :&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Étape Normandie, le 26 septembre à Rouen&lt;/li&gt;
+  &lt;li&gt;Étape Occitanie, le 15 octobre à Toulouse&lt;/li&gt;
+  &lt;li&gt;Étape Nouvelle-Aquitaine, le 18 octobre à Bordeaux&lt;/li&gt;
+  &lt;li&gt;Étape Martinique, le 24 octobre à Fort-de-France&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-paca/&quot;&gt;Étape PACA&lt;/a&gt;, le 6 novembre à Marseille&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-corse/&quot;&gt;Étape Corse&lt;/a&gt;, le 8 novembre à Ajaccio&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-ile-de-france/&quot;&gt;Étape Ile-de-France&lt;/a&gt;, le 13 novembre à Paris&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-bourgogne-franche-comte/&quot;&gt;Étape Bourgogne Franche-Comté&lt;/a&gt;, le 14 novembre à Dijon&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-pays-de-la-loire/&quot;&gt;Étape Pays de la Loire&lt;/a&gt;, le 20 novembre à Nantes&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-bretagne/&quot;&gt;Étape Bretagne&lt;/a&gt;, le 22 novembre à Rennes&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-hauts-de-france/&quot;&gt;Étape Hauts-de-France&lt;/a&gt;, le 27 novembre à Lille&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-fr-etape-grand-est/&quot;&gt;Étape Grand-Est&lt;/a&gt;, le 29 novembre à Metz&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Étape Centre Val-de-Loire, le 5 décembre à Orléans&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/agenda/tour-de-france-demarches-simplifiees-dot-fr-etape-auvergne-rhone-alpes/&quot;&gt;Étape Auvergne-Rhône-Alpes&lt;/a&gt;, le 7 décembre à Lyon&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Tue, 23 Oct 2018 16:35:00 +0200</pubDate>
+      <link>http://localhost:4000/agenda/tour-de-france-demarches-simplifiees-fr-etape-centre-val-de-loire/</link>
+      <guid isPermaLink="true">http://localhost:4000/agenda/tour-de-france-demarches-simplifiees-fr-etape-centre-val-de-loire/</guid>
+    </item>
+    
+  </channel>
+</rss>

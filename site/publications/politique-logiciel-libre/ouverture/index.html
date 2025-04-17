@@ -1,0 +1,835 @@
+<!doctype html>
+<html class="no-js" lang="fr" prefix="og: http://ogp.me/ns#">
+  <head>
+  <script type="text/javascript" src="https://tarteaucitron.io/load.js?domain=numerique.gouv.fr&uuid=a86d8ff1c4c8d37ead14ceacf67ab509a1ebb18f"></script>
+<script>
+  (tarteaucitron.job = tarteaucitron.job || []).push('dailymotion');
+  (tarteaucitron.job = tarteaucitron.job || []).push('youtube');
+  (tarteaucitron.job = tarteaucitron.job || []).push('twittertimeline');
+  const cookiesLink = document.getElementById("tarteaucitronManager")
+  if (cookiesLink !== null) {
+    cookiesLink.onclick = function() { tarteaucitron.userInterface.openPanel();return false };
+  }
+</script>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+  <title>Principes d’ouverture des codes sources | numerique.gouv.fr</title>
+  <meta name="description" content="Le site officiel de la DINUM" />
+  <meta name="google-site-verification" content="" />
+  <meta property="og:title" content="Principes d’ouverture des codes sources"/>
+  <meta property="og:image" content="http://localhost:4000/uploads/default.jpeg"/>
+  <meta property="og:description" content="
+"/>
+  <meta property="og:url" content="http://localhost:4000/publications/politique-logiciel-libre/ouverture/" />
+  
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Principes d’ouverture des codes sources">
+  <meta name="twitter:description" content="Préambule
+
+Principe de subsidiarité
+
+La politique peut être instanciée localement avec une priorité plus forte.
+
+Voir la section instanciation si vous souhaitez décliner cette politique au sein de votre organisation.
+
+Assistance sur la politique de contribution
+
+Contacter opensource@data.gouv.fr pour toute question sur cette politique.
+
+Principe de reconnaissance des contributions
+
+Attribuer les contributions aux individus
+
+Afin de reconnaître la paternité des contributions, l’adresse électronique individuelle du développeur est utilisée:
+
+
+  Pour les agents : utilisation de l’adresse électronique professionnelle.
+  Pour les prestataires de services, utilisation de l’adresse électronique de leur société d’attachement (pas d’adresse prestataire fournie par l’administration)
+
+
+Toutefois, au cas où un développeur ne souhaiterait pas voir son identité publiée, il peut utiliser un pseudonyme.  En revanche, l’utilisation d’adresses électroniques génériques ou anonymes est à proscrire.
+
+Distinguer les contributions professionnelles et personnelles
+
+Il est possible pour un développeur de contribuer sur un même projet dans le cadre du milieu professionnel et à titre personnel, l’État reconnaissant aux développeurs la propriété sur les contributions réalisées en dehors du temps de travail. Les contributions réalisées sur le temps professionnel doivent être associées à une adresse électronique professionnelle.
+
+Contribuer à des projets tiers
+
+Autorisation par défaut de contribuer à des projets sous licence FSF ou OSI
+
+Les licences validées par les organismes Free Software Foundation et Open Source Initiative et recensées sur leurs pages respectives :
+
+
+  FSF : https://www.gnu.org/licenses/license-list.fr.html (en excluant les licences non libres présentées comme telles) ;
+  OSI : https://opensource.org/licenses/alphabetical.
+
+
+À l’inverse les licences non retenues par ces organismes (comme la Beerware) ne rentrent pas dans le cadre de l’autorisation par défaut. Un tableau consolidé des licences validées par l’un ou l’autre organisme est maintenu sur le site https://spdx.org/licenses/
+
+Signature des Corporate Contributor License Agreement
+
+La DINUM prend en charge de signer les accords de contributions spécifiques (Corporate Contributor License Agreement ou CCLA) avec les communautés ou les entreprises qui l’exigent, afin de permettre les contributions des agents à titre professionnel aux projets concernés. Si cela est demandé par l’autre partie, elle maintiendra les listes d’individus couverts par l’accord. Une autre possibilité est que l’accord de CCLA soit un pré-requis à la signature d’un Contributor License Agreement individuel (iCLA). Dans ce cas, la signature d’un CCLA par la DINUM vaudra pré-autorisation pour la signature d’iCLA.
+
+Si vous souhaitez contribuer à un projet réclamant ce type de formalisme, que ce soit pour signer un CCLA, vous rajouter à la liste des contributeurs autorisés, ou vérifier la possibilité de signer un iCLA, contactez l’adresse d’assistance indiquée plus haut.
+
+Liste des CCLA signés :
+
+
+  A ce stade, aucun CCLA n’a encore été signé par la DINUM.
+
+
+Contribuer en publiant un nouveau projet
+
+La publication du code source ne crée ni obligation ni garantie
+
+
+  Aucune obligation de support et de prise en compte des demandes des utilisateurs ni plus généralement d’obligation d’animer la communauté.
+  Pas de garanties au-delà de ce qui est prévu par la licence.
+
+
+Autorisation par défaut de contribuer un nouveau projet avec les licences du décret
+
+L’État n’a pas vocation à être éditeur de logiciels. En dehors des trois exceptions prévues à la loi pour une République numérique pour lesquelles vous pouvez contacter l’adresse électronique de support en cas de question, il n’y a pas d’autorisation préalable à demander auprès de la DINUM. Pour autant, veuillez vous référer à votre supérieur hiérarchique avant la publication d’un nouveau projet dans le compte de votre organisation.
+
+Pour rappel, les licences à utiliser sont disponibles par décret sur le site : http://www.data.gouv.fr/fr/licences.
+
+Éléments à considérer dans le choix de la licence libre
+
+Pour les cas où l’administration a des raisons de garantir que les modifications apportées par un tiers au logiciel libre qu’elle publie sont accessibles sous les mêmes conditions, elle envisagera une licence à réciprocité.  En particulier, s’il s’agit d’un logiciel qui est à la base d’un service en ligne pour lequel elle souhaite se prémunir de toute réappropriation, elle pourra considérer la licence GNU Affero General Public License.  Dans les autres cas, elle considérera les licences permissives.
+
+Le choix de la licence d’un projet devra également prendre en compte celles des composants Open Source tiers constituant son cadre technique, selon les modalités de leurs relations techniques.
+
+L’écosystème où s’insère le projet pourra aussi aiguiller le choix de la licence, dans la limite de la latitude laissée par les critères précédents.
+
+À noter que les solutions logicielles sont souvent modulaires et que la question de la licence peut se poser à plusieurs niveaux.  Par exemple, pour une solution de site web, les modules de l’interface web pourront être publiés sous une licence différente de celle qui couvre le code source côté serveur.
+
+Distribution des logiciels sous forme de paquets
+
+Le code source des logiciels est souvent empaqueté de façon à être utilisé dans d’autres projets.  Chaque écosystème utilise son système de distributions de paquets: modules npm ou pypi, images docker, fichiers deb, etc.
+
+Il est recommandé de distribuer, en plus du code source des logiciels, les paquets qui facilitent leur réutilisation.
+
+Pour connaître les sites sur lesquels publier vos paquets, contactez le mainteneur de cette politique correspondant à votre ministère.  Si vous ne savez pas qui contacter, écrivez à opensource@data.gouv.fr.
+
+Certification de l’origine des contributions (DCO)
+
+Les projets publiés par l’État n’exigent pas de droits spécifiques des contributeurs en dehors de ceux accordés par leurs licences respectives (pas d’utilisation de CLA). En revanche, il est demandé aux contributeurs de signer un Certificat d’origine des contributions (Developer Certificate of Origin). Afin de s’insérer dans les standards en usage, il a été choisi d’utiliser une traduction française du texte utilisé pour le noyau Linux et repris par de nombreux autres projets.
+">
+  <meta name="twitter:image" content="http://localhost:4000/uploads/default.jpeg">
+
+  <!-- Matomo -->
+<script >
+  var _paq = _paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setDomains", ["*.test-dinsic.fr","*.dev.test-dinsic.fr","*.preprod.test-dinsic.fr"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://stats.data.gouv.fr/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '65']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+
+  <script>
+  let pageTitle = "Principes d’ouverture des codes sources";
+  if (pageTitle === 'Numerique.gouv.fr') {
+    pageTitle = 'Accueil'
+  }
+  </script>
+
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/img/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/img/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/img/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/img/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/img/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/img/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/img/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/img/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/assets/img/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/assets/img/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon/favicon-16x16.png">
+<link rel="icon" type="image/png" href="/assets/img/favicon/favicon.ico">
+
+  <link rel="stylesheet" type="text/css" href="/assets/css/instantsearch.min.css">
+<link rel="stylesheet" type="text/css" href="/assets/css/instantsearch-theme-algolia.min.css">
+<link rel="stylesheet" href="/assets/css/print.css" type="text/css" media="print">
+<link rel="stylesheet" href="/assets/css/tac.css" type="text/css">
+<link rel="stylesheet" href="/assets/css/stylesheet.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
+      integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+      crossorigin=""/>
+
+  
+  
+    <link rel="preload" href="/assets/js/modernizr.js" as="script">
+  
+
+  
+    <link rel="preload" href="/assets/js/app.js" as="script">
+  
+
+  
+    <link rel="preload" href="/assets/js/vendors~app.js" as="script">
+  
+
+  
+    <link rel="preload" href="/assets/js/vendors~foundation.js" as="script">
+  
+
+  
+    <link rel="preload" href="/assets/js/foundation.js" as="script">
+  
+
+  
+    <link rel="preload" href="/assets/js/vendors~actualites~app~espace-presse~evenements~rechercher.js" as="script">
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    <link rel="preload" href="/assets/js/mapper.js" as="script">
+  
+
+  
+    <link rel="preload" href="/assets/js/vendors~mapper.js" as="script">
+  
+
+  
+    <link rel="preload" href="/assets/js/mise-en-prod.js" as="script">
+  
+
+  
+    <link rel="preload" href="/assets/js/vendors~mise-en-prod.js" as="script">
+  
+
+  
+    <link rel="preload" href="/assets/js/vendors~actualites~espace-presse~evenements~mise-en-prod~rechercher.js" as="script">
+  
+
+  
+
+  
+
+  
+
+
+
+
+  
+</head>
+
+  <body>
+
+    <header role="banner" id="header" class="grid-y">
+    <ul class="skip-link">
+      <li>
+        <a href="#content">Aller au contenu</a>
+      </li>
+      <li class="show-for-medium">
+        <a href="#nav">Aller au menu</a>
+      <li class="show-for-medium">
+        <a href="#input-rechercher">Aller &agrave; la recherche</a>
+      </li>
+    </ul>
+  <div class="cell">
+    <div id="nav-dinsic">
+  <div id="nav-titre">
+    
+  <a class="black-link" href="/">
+    
+    <img class="marianne" src="/assets/img/logos/LogoRF.svg" alt="République française">
+<!--    <img class="marianne" src="/assets/img/logos/LogoRF-nb.png" alt="République française">-->
+    <span class="titre-site">numerique.gouv.<i>fr</i></span>
+    
+  </a>
+  
+
+  </div>
+  <div id="nav-content">
+    <div class="title-bar" data-responsive-toggle="responsive-menu">
+      <nav class="title-bar-right" role="navigation" data-hide-for="large">
+        <button id="hamburger-button" class="hamburger hamburger--collapse" aria-expanded="false" type="button" data-toggle="responsive-menu" aria-controls="responsive-menu" >
+          <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+          </span>
+          <span class="off-screen">Ouvrir le menu</span>
+        </button>
+      </nav>
+    </div>
+    <div class="top-bar" id="responsive-menu" data-animate="slide-in-left slide-out-left">
+      <nav class="top-bar-left" role="navigation">
+        <a id="nav" tabindex="-1"></a>
+        <ul class="vertical medium-horizontal dropdown menu">
+          
+          <li>
+            <a class="black-link" href="/dinum">La DINUM</a>
+          </li>
+          
+          <li>
+            <a class="black-link" href="/actualites">Actualités</a>
+          </li>
+          
+          <li>
+            <a class="black-link" href="/agenda">Agenda</a>
+          </li>
+          
+          <li>
+            <a class="black-link" href="/publications">Publications</a>
+          </li>
+          
+          <li>
+            <a class="black-link" href="/services">Services</a>
+          </li>
+          
+          <li>
+            <a class="black-link" href="/outils-agents">Outils agents</a>
+          </li>
+          
+          <li>
+            <a class="black-link" href="/rejoignez-nous">Recrutement</a>
+          </li>
+          
+        </ul>
+      </nav>
+      
+      <form id="rechercher" action="/rechercher" class="search-form top-bar-right" method="get" role="search">
+        <label for="input-rechercher" class="off-screen">Rechercher dans le site numerique.gouv.fr</label>
+        <input id="input-rechercher" type="text" name="query" >
+        <button type="submit" id="submit-search-bar">
+          <span class="off-screen">Lancer la recherche</span>
+          <span aria-hidden="true" class="fas fa-search icon-recherche"></span>
+        </button>
+      </form>
+      
+    </div>
+  </div>
+</div>
+
+  </div>
+  <hr>
+  <div class="cell">
+      
+
+  <nav class="default-text-padding margin-vertical-1 h6" id="fil-ariane" aria-label="Fil d'Ariane" role="navigation">
+    <ol>
+      <li><a href="/">Accueil</a></li>
+      
+        
+        <li>>
+        
+        
+        <a href="/publications/">
+        Publications          
+        </a></li>
+        
+      
+        
+        <li>>
+        
+        
+        <a href="/publications/politique-logiciel-libre/">
+        Politique logiciel libre          
+        </a></li>
+        
+      
+        
+        <li>> Principes d’ouverture des codes sources</li>
+        
+      
+    </ol>
+  </nav>
+
+
+  </div>
+</header>
+
+
+    <main id="main" role="main">
+      
+      <div id="politique-logiciel-libre">
+  <a id="content" tabindex="-1"></a>
+  <section class="margin-0 gray-background page-fille" >
+    <div class="max-width-75 white-area">
+      <div class=grid-x>
+        <h1 class="cell text-center padding-vertical-3  blue-gradient-underline font-bold">Politique de contribution aux logiciels libres de l’État</h1>
+        <div class="lead chapeau cell large-8 large-offset-2 medium-10 medium-offset-1 small-12 small-offset-0">
+          <p>Conformément à <a href="https://www.legifrance.gouv.fr/affichLoiPubliee.do?idDocument=JORFDOLE000031589829&amp;type=general&amp;legislature=14">la Loi pour une République Numérique du 7 octobre 2016</a>, les codes sources sont des documents administratifs communicables et réutilisables.
+La DINUM a souhaité échanger avec les acteurs de l’État, mais également les communautés du libre, les associations, les sociétés privées et le secteur académique sur les modalités d’ouverture des codes sources.
+Cette politique a été validée par l’ensemble des DSI ministériels le 15 février 2018 et est officiellement en vigueur.
+<br /><br /><strong>À lire&#160;:\ <a href="https://www.numerique.gouv.fr/publications/plan-action-logiciels-libres-communs-numeriques/">Plan d’action logiciels libres et communs numériques</a></strong></p>
+
+        </div>
+        <div class="cell margin-bottom-2">
+          <div class="partager">
+  <p class="text-center font-bold margin-0">Partager</p>
+  <ul>
+    <li>
+      <a href="https://twitter.com/intent/tweet?url=http://localhost:4000/publications/politique-logiciel-libre/ouverture/">
+        <img width="32" alt="partager sur Twitter" src="/assets/img/pictogrammes/partager_twitter.svg">
+      </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/publications/politique-logiciel-libre/ouverture/">
+        <img width="32" alt="partager sur Linkedin" src="/assets/img/pictogrammes/partager_linkedin.svg">
+      </a>
+    </li>
+    <li>
+      <a href="https://www.facebook.com/sharer.php?u=http://localhost:4000/publications/politique-logiciel-libre/ouverture/">
+        <img width="32" alt="partager sur Facebook" src="/assets/img/pictogrammes/partager_facebook.svg">
+      </a>
+    </li>
+    <li>
+      <a href="mailto:?subject=numerique.gouv.fr&nbsp;:&nbsp;/publications/politique-logiciel-libre/ouverture/&body=http://localhost:4000/publications/politique-logiciel-libre/ouverture/">
+        <img width="32" alt="partager par email" src="/assets/img/pictogrammes/partager_mail.svg">
+      </a>
+    </li>
+  </ul>
+</div>
+
+        </div>
+      </div>
+      <!--<button type="button" class="button show-for-small-only">Ouvrir le sommaire</button>-->
+      <div class="grid-x" id="contenu">
+        <div class="margin-bottom-3 padding-left-2 cell large-2 small-12 reveal-for-medium sommaire">
+          <h2>Sommaire</h2>
+          <nav>
+            <ul class="vertical menu">
+              
+              
+              <li class="pl-04 ">
+                <a href="/publications/politique-logiciel-libre/#contenu" >Introduction</a>
+              </li>
+              
+              <li class="pl-04  active-link ">
+                <a href="/publications/politique-logiciel-libre/ouverture/#contenu"  title="Ouverture, page active" >Ouverture</a>
+              </li>
+              
+              <li class="pl-04 ">
+                <a href="/publications/politique-logiciel-libre/instanciation/#contenu" >Instanciation</a>
+              </li>
+              
+              <li class="pl-04 ">
+                <a href="/publications/politique-logiciel-libre/pratique/#contenu" >Bonnes pratiques</a>
+              </li>
+              
+              <li class="pl-04 ">
+                <a href="/publications/politique-logiciel-libre/gouvernance/#contenu" >Gouvernance</a>
+              </li>
+              
+              <li class="pl-04 ">
+                <a href="/publications/politique-logiciel-libre/faq/#contenu" ><abbr title="Foire aux questions">FAQ</abbr></a>
+              </li>
+              
+            </ul>
+          </nav>
+        </div>
+        <div class="margin-bottom-3 large-offset-1 cell large-8 small-12">
+          
+            <h2>Principes d’ouverture des codes sources</h2>
+          
+          <div class="page-fille-content-text">
+            <h2 id="préambule">Préambule</h2>
+
+<h3 id="principe-de-subsidiarité">Principe de subsidiarité</h3>
+
+<p>La politique peut être instanciée localement avec une priorité plus forte.</p>
+
+<p>Voir la section <a href="Instanciation">instanciation</a> si vous souhaitez décliner cette politique au sein de votre organisation.</p>
+
+<h3 id="assistance-sur-la-politique-de-contribution">Assistance sur la politique de contribution</h3>
+
+<p>Contacter <code class="language-plaintext highlighter-rouge">opensource@data.gouv.fr</code> pour toute question sur cette politique.</p>
+
+<h2 id="principe-de-reconnaissance-des-contributions">Principe de reconnaissance des contributions</h2>
+
+<h3 id="attribuer-les-contributions-aux-individus">Attribuer les contributions aux individus</h3>
+
+<p>Afin de reconnaître la paternité des contributions, l’adresse électronique individuelle du développeur est utilisée:</p>
+
+<ul>
+  <li>Pour les agents&#160;: utilisation de l’adresse électronique professionnelle.</li>
+  <li>Pour les prestataires de services, utilisation de l’adresse électronique de leur société d’attachement (pas d’adresse prestataire fournie par l’administration)</li>
+</ul>
+
+<p>Toutefois, au cas où un développeur ne souhaiterait pas voir son identité publiée, il peut utiliser un pseudonyme.  En revanche, l’utilisation d’adresses électroniques génériques ou anonymes est à proscrire.</p>
+
+<h3 id="distinguer-les-contributions-professionnelles-et-personnelles">Distinguer les contributions professionnelles et personnelles</h3>
+
+<p>Il est possible pour un développeur de contribuer sur un même projet dans le cadre du milieu professionnel et à titre personnel, l’État reconnaissant aux développeurs la propriété sur les contributions réalisées en dehors du temps de travail. Les contributions réalisées sur le temps professionnel doivent être associées à une adresse électronique professionnelle.</p>
+
+<h2 id="contribuer-à-des-projets-tiers">Contribuer à des projets tiers</h2>
+
+<h3 id="autorisation-par-défaut-de-contribuer-à-des-projets-sous-licence-fsf-ou-osi">Autorisation par défaut de contribuer à des projets sous licence FSF ou OSI</h3>
+
+<p>Les licences validées par les organismes Free Software Foundation et Open Source Initiative et recensées sur leurs pages respectives&#160;:</p>
+
+<ul>
+  <li>FSF&#160;: <a href="https://www.gnu.org/licenses/license-list.fr.html">https://www.gnu.org/licenses/license-list.fr.html</a> (en excluant les licences non libres présentées comme telles) ;</li>
+  <li>OSI&#160;: <a href="https://opensource.org/licenses/alphabetical">https://opensource.org/licenses/alphabetical</a>.</li>
+</ul>
+
+<p>À l’inverse les licences non retenues par ces organismes (comme la <em>Beerware</em>) ne rentrent pas dans le cadre de l’autorisation par défaut. Un tableau consolidé des licences validées par l’un ou l’autre organisme est maintenu sur le site <a href="https://spdx.org/licenses">https://spdx.org/licenses/</a></p>
+
+<h3 id="signature-des-corporate-contributor-license-agreement">Signature des <em>Corporate Contributor License Agreement</em></h3>
+
+<p>La DINUM prend en charge de signer les accords de contributions spécifiques (Corporate Contributor License Agreement ou CCLA) avec les communautés ou les entreprises qui l’exigent, afin de permettre les contributions des agents à titre professionnel aux projets concernés. Si cela est demandé par l’autre partie, elle maintiendra les listes d’individus couverts par l’accord. Une autre possibilité est que l’accord de CCLA soit un pré-requis à la signature d’un Contributor License Agreement individuel (iCLA). Dans ce cas, la signature d’un CCLA par la DINUM vaudra pré-autorisation pour la signature d’iCLA.</p>
+
+<p>Si vous souhaitez contribuer à un projet réclamant ce type de formalisme, que ce soit pour signer un CCLA, vous rajouter à la liste des contributeurs autorisés, ou vérifier la possibilité de signer un iCLA, contactez l’adresse d’assistance indiquée plus haut.</p>
+
+<p>Liste des CCLA signés :</p>
+
+<ul>
+  <li>A ce stade, aucun CCLA n’a encore été signé par la DINUM.</li>
+</ul>
+
+<h2 id="contribuer-en-publiant-un-nouveau-projet">Contribuer en publiant un nouveau projet</h2>
+
+<h3 id="la-publication-du-code-source-ne-crée-ni-obligation-ni-garantie">La publication du code source ne crée ni obligation ni garantie</h3>
+
+<ul>
+  <li>Aucune obligation de support et de prise en compte des demandes des utilisateurs ni plus généralement d’obligation d’animer la communauté.</li>
+  <li>Pas de garanties au-delà de ce qui est prévu par la licence.</li>
+</ul>
+
+<h3 id="autorisation-par-défaut-de-contribuer-un-nouveau-projet-avec-les-licences-du-décret">Autorisation par défaut de contribuer un nouveau projet avec les licences du décret</h3>
+
+<p>L’État n’a pas vocation à être éditeur de logiciels. En dehors des trois exceptions prévues à la loi pour une République numérique pour lesquelles vous pouvez contacter l’adresse électronique de support en cas de question, il n’y a pas d’autorisation préalable à demander auprès de la DINUM. Pour autant, veuillez vous référer à votre supérieur hiérarchique avant la publication d’un nouveau projet dans le compte de votre organisation.</p>
+
+<p>Pour rappel, les licences à utiliser sont disponibles par décret sur le site&#160;: <a href="http://www.data.gouv.fr/fr/licences">http://www.data.gouv.fr/fr/licences</a>.</p>
+
+<h3 id="éléments-à-considérer-dans-le-choix-de-la-licence-libre">Éléments à considérer dans le choix de la licence libre</h3>
+
+<p>Pour les cas où l’administration a des raisons de garantir que les modifications apportées par un tiers au logiciel libre qu’elle publie sont accessibles sous les mêmes conditions, elle envisagera une licence à réciprocité.  En particulier, s’il s’agit d’un logiciel qui est à la base d’un service en ligne pour lequel elle souhaite se prémunir de toute réappropriation, elle pourra considérer la licence GNU Affero General Public License.  Dans les autres cas, elle considérera les licences permissives.</p>
+
+<p>Le choix de la licence d’un projet devra également prendre en compte celles des composants Open Source tiers constituant son cadre technique, selon les modalités de leurs relations techniques.</p>
+
+<p>L’écosystème où s’insère le projet pourra aussi aiguiller le choix de la licence, dans la limite de la latitude laissée par les critères précédents.</p>
+
+<p>À noter que les solutions logicielles sont souvent modulaires et que la question de la licence peut se poser à plusieurs niveaux.  Par exemple, pour une solution de site web, les modules de l’interface web pourront être publiés sous une licence différente de celle qui couvre le code source côté serveur.</p>
+
+<h3 id="distribution-des-logiciels-sous-forme-de-paquets">Distribution des logiciels sous forme de paquets</h3>
+
+<p>Le code source des logiciels est souvent empaqueté de façon à être utilisé dans d’autres projets.  Chaque écosystème utilise son système de distributions de paquets: modules <code class="language-plaintext highlighter-rouge">npm</code> ou <code class="language-plaintext highlighter-rouge">pypi</code>, images <code class="language-plaintext highlighter-rouge">docker</code>, fichiers <code class="language-plaintext highlighter-rouge">deb</code>, etc.</p>
+
+<p>Il est recommandé de distribuer, en plus du code source des logiciels, les paquets qui facilitent leur réutilisation.</p>
+
+<p>Pour connaître les sites sur lesquels publier vos paquets, contactez le <a href="MAINTAINERS">mainteneur</a> de cette politique correspondant à votre ministère.  Si vous ne savez pas qui contacter, écrivez à <code class="language-plaintext highlighter-rouge">opensource@data.gouv.fr</code>.</p>
+
+<h3 id="certification-de-lorigine-des-contributions-dco">Certification de l’origine des contributions (DCO)</h3>
+
+<p>Les projets publiés par l’État n’exigent pas de droits spécifiques des contributeurs en dehors de ceux accordés par leurs licences respectives (pas d’utilisation de CLA). En revanche, il est demandé aux contributeurs de signer un Certificat d’origine des contributions (<em>Developer Certificate of Origin</em>). Afin de s’insérer dans les standards en usage, il a été choisi d’utiliser une traduction française du texte utilisé pour le noyau Linux et repris par de nombreux autres projets.</p>
+          </div>
+        </div>
+        <div class="margin-bottom-3 large-offset-3 cell large-8 small-12">
+          <a target="_blank" href="https://disic.github.io/politique-de-contribution-open-source/introduction.en">Go to English version</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+
+      
+      <button id="button-modal-production" data-open="modal-production" class="button warning large">Mettre en production</button>
+      <div class="reveal" id="modal-production" data-reveal>
+        <h1>Mise en ligne du site</h1>
+        <p class="lead">Attention, vous êtes sur le point de mettre en ligne le site numerique.gouv.fr</p>
+        <p>Toutes les fonctionalités visibles en préproduction vont être basculées en production. Néanmoins, si le html du site n'est pas valide, il ne sera pas publié.</p>
+        <div class="button-group large">
+          <button id="button-production" data-token="" class="button alert">Mettre en production</button>
+          <button data-close class="button">Annuler</button>
+        </div>
+      </div>
+      <div class="reveal callout success" id="modal-production-done" data-reveal>
+        <h1>Bravo c'est fait</h1>
+        <p class="lead">Le site va être mis à jour dans 2 minutes.</p>
+        <p>Contacter un administrateur si la mise à jour ne fonctionne pas.</p>
+        <button class="close-button" data-close aria-label="Close modal" type="button">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      
+    </main>
+    <footer id="footer" role="contentinfo">
+  <div class="nav">
+    <div class="grid-x grid-margin-x padding-2">
+      <div class="large-4 medium-12 small-12 ">
+        <p class="p">numerique.gouv.fr</p>
+        <p>Avec le numérique, nous créons le service public de demain</p>
+        <ul class="grid-x margin-left-0">
+  <li class="social__item">
+    <a target="_blank" href="https://twitter.com/_dinum" class="social__icon--twitter" title="Twitter">
+      <span class="fab fa-twitter" aria-hidden="true"></span>
+    </a>
+  </li>
+  <li class="social__item">
+    <a target="_blank" href="https://www.linkedin.com/company/direction-interministerielle-du-numerique-dinum/" class="social__icon--linkedin"  title="Linkedin">
+      <span class="fab fa-linkedin-in" aria-hidden="true"></span>
+    </a>
+  </li>
+  <li class="social__item">
+    <a target="_blank" href="https://github.com/numerique-gouv/numerique.gouv.fr" class="social__icon--github" title="Github">
+      <span class="fab fa-github-alt" aria-hidden="true"></span>
+    </a>
+  </li>
+  <li class="social__item">
+    <a href="/rss/" class="social__icon--rss"  title="RSS">
+      <img width="20" src="/assets/img/pictogrammes/rss-solid.svg" alt="RSS" class="fab rss-icon">
+    </a>
+  </li>
+  <li class="social__item">
+    <a target="_blank" href="https://www.dailymotion.com/dinum" class="social__icon--dailymotion" title="Dailymotion">
+      <img width="20" src="/assets/img/pictogrammes/dailymotion-brands.svg" alt="Dailymotion" class="fab rss-icon">
+    </a>
+  </li>
+</ul>
+
+        <ul class="no-bullet">
+          
+          <li><a class="text-uppercase" href="/espace-presse">Espace presse</a></li>
+          
+          <li><a class="text-uppercase" href="/donnees-personnelles-cookies">Données personnelles</a></li>
+          
+          <li><a class="text-uppercase" href="/mentions-legales">Mentions légales</a></li>
+          
+          <li><a class="text-uppercase" href="/accessibilite">Accessibilité : totalement conforme</a></li>
+          
+          <li><a class="text-uppercase" href="/contact">Contact</a></li>
+          
+          <li><button type="button" id="tarteaucitronManager">GÉRER MES COOKIES</button></li>
+        </ul>
+      </div>
+      <div class="cell large-2 medium-6 small-12 grid-y">
+        <a href="/plan-du-site"><p class="h5 gray-link-footer mb-1" role="heading" aria-level="2">Plan du site</p></a>
+        <ul class="no-bullet">
+          
+          <li><a href="/dinum">La DINUM</a></li>
+          
+          <li><a href="/actualites">Actualités</a></li>
+          
+          <li><a href="/agenda">Agenda</a></li>
+          
+          <li><a href="/publications">Publications</a></li>
+          
+          <li><a href="/services">Services</a></li>
+          
+          <li><a href="/outils-agents">Outils agents</a></li>
+          
+          <li><a href="/rejoignez-nous">Rejoignez-nous</a></li>
+          
+          <li><a href="/onparledenous">On parle de nous</a></li>
+          
+          <li><a href="/espace-presse">Espace presse</a></li>
+          
+        </ul>
+      </div>
+      <div class="cell large-3 medium-6 small-12 grid-y">
+        <p class="h5 mb-1" role="heading" aria-level="2">Nos univers</p>
+        <ul class="no-bullet">
+          
+          <li><a href="https://beta.gouv.fr/" title="beta.gouv.fr - lien externe">beta.gouv.fr</a></li>
+          
+          <li><a href="https://www.etalab.gouv.fr/" title="etalab.gouv.fr - lien externe">etalab.gouv.fr</a></li>
+          
+          <li><a href="https://design.numerique.gouv.fr" title="design.numerique.gouv.fr - lien externe">design.numerique.gouv.fr</a></li>
+          
+          <li><a href="https://ecoresponsable.numerique.gouv.fr" title="ecoresponsable.numerique.gouv.fr - lien externe">ecoresponsable.numerique.gouv.fr</a></li>
+          
+          <li><a href="https://data.gouv.fr/" title="data.gouv.fr - lien externe">data.gouv.fr</a></li>
+          
+          <li><a href="https://api.gouv.fr" title="api.gouv.fr - lien externe">api.gouv.fr</a></li>
+          
+          <li><a href="https://code.gouv.fr" title="code.gouv.fr - lien externe">code.gouv.fr</a></li>
+          
+          <li><a href="https://eig.etalab.gouv.fr/" title="Entrepreneurs d'intérêt général - lien externe">Entrepreneurs d'intérêt général</a></li>
+          
+          <li><a href="https://citoyens.transformation.gouv.fr/" title="Accélérateur d'initiatives citoyennes - lien externe">Accélérateur d'initiatives citoyennes</a></li>
+          
+        </ul>
+      </div>
+      <div class="cell large-3 medium-6 small-12 grid-y">
+        <div class="row">
+          <p class="h5 mb-1" role="heading" aria-level="2">Nos services aux usagers</p>
+          <ul class="no-bullet">
+            
+            <li><a href="https://franceconnect.gouv.fr" title="franceconnect.gouv.fr - lien externe">franceconnect.gouv.fr</a></li>
+            
+            <li><a href="https://mon.franceconnect.gouv.fr" title="mon.franceconnect.gouv.fr (bêta) - lien externe">mon.franceconnect.gouv.fr (bêta)</a></li>
+            
+            <li><a href="https://demarches-simplifiees.fr" title="demarches-simplifiees.fr - lien externe">demarches-simplifiees.fr</a></li>
+            
+            <li><a href="https://observatoire.numerique.gouv.fr" title="observatoire.numerique.gouv.fr - lien externe">observatoire.numerique.gouv.fr</a></li>
+            
+          </ul>
+        </div>
+        <div class="row mt-1">
+          <p class="h5 mb-1" role="heading" aria-level="2">Outils pour les agents publics</p>
+          <ul class="no-bullet">
+            
+            <li><a href="https://www.tchap.gouv.fr/" title="Messagerie instantanée Tchap - lien externe">Messagerie instantanée Tchap</a></li>
+            
+            <li><a href="https://webconf.numerique.gouv.fr/" title="Webconférence de l'État - lien externe">Webconférence de l'État</a></li>
+            
+            <li><a href="https://webinaire.numerique.gouv.fr/" title="Webinaire de l'État - lien externe">Webinaire de l'État</a></li>
+            
+            <li><a href="https://audioconf.numerique.gouv.fr/" title="Audioconférence de l'État - lien externe">Audioconférence de l'État</a></li>
+            
+            <li><a href="https://osmose.numerique.gouv.fr/" title="Osmose - lien externe">Osmose</a></li>
+            
+            <li><a href="https://resana.numerique.gouv.fr/" title="Resana - lien externe">Resana</a></li>
+            
+            <li><a href="https://francetransfert.numerique.gouv.fr/" title="France transfert - lien externe">France transfert</a></li>
+            
+          </ul>
+        </div>
+      </div>
+      <a href="#header">
+        <span aria-hidden="true" class="fas fa-arrow-up"></span>
+        <span class="off-screen">retour en haut de page</span>
+      </a>
+      <div class="cell large-8 large-offset-4 show-for-large">
+        <ul id="site-public" class="no-bullet">
+          <li class="float-left">Les sites publics :</li>
+          
+          <li class="float-left"><a href="http://www.transformation.gouv.fr" title="transformation.gouv.fr - lien externe">transformation.gouv.fr</a></li>
+          
+          <li class="float-left"><a href="http://www.elysee.fr/" title="Elysee.fr - lien externe">Elysee.fr</a></li>
+          
+          <li class="float-left"><a href="https://www.gouvernement.fr/" title="gouvernement.fr - lien externe">gouvernement.fr</a></li>
+          
+          <li class="float-left"><a href="https://www.service-public.fr/" title="service-public.fr - lien externe">service-public.fr</a></li>
+          
+          <li class="float-left"><a href="https://www.legifrance.gouv.fr/" title="legifrance.gouv.fr - lien externe">legifrance.gouv.fr</a></li>
+          
+          <li class="float-left"><a href="https://www.data.gouv.fr/" title="data.gouv.fr - lien externe">data.gouv.fr</a></li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+<script src="/assets/js/sources/jquery.min.js"></script>
+<script src="/assets/js/sources/jquery.validate.js"></script>
+<script src="/assets/js/sources/what-input.min.js"></script>
+<script src="/assets/js/sources/foundation.min.js"></script>
+<script src="/assets/js/sources/moment.min.js"></script>
+<script src="/assets/js/sources/locale/fr.js"></script>
+<script>
+  moment.locale('fr');  // Set the default/global locale
+</script>
+
+<script>
+  $(document).foundation();
+</script>
+<script >
+  
+    
+      var modernizr = document.createElement('script');
+      modernizr.src = '/assets/js/modernizr.js';
+      document.body.appendChild(modernizr);
+    
+  
+    
+      var app = document.createElement('script');
+      app.src = '/assets/js/app.js';
+      document.body.appendChild(app);
+    
+  
+    
+      var vendors_app = document.createElement('script');
+      vendors_app.src = '/assets/js/vendors~app.js';
+      document.body.appendChild(vendors_app);
+    
+  
+    
+      var vendors_foundation = document.createElement('script');
+      vendors_foundation.src = '/assets/js/vendors~foundation.js';
+      document.body.appendChild(vendors_foundation);
+    
+  
+    
+      var foundation = document.createElement('script');
+      foundation.src = '/assets/js/foundation.js';
+      document.body.appendChild(foundation);
+    
+  
+    
+      var vendors_actualites_app_espacePresse_evenements_rechercher = document.createElement('script');
+      vendors_actualites_app_espacePresse_evenements_rechercher.src = '/assets/js/vendors~actualites~app~espace-presse~evenements~rechercher.js';
+      document.body.appendChild(vendors_actualites_app_espacePresse_evenements_rechercher);
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      var mapper = document.createElement('script');
+      mapper.src = '/assets/js/mapper.js';
+      document.body.appendChild(mapper);
+    
+  
+    
+      var vendors_mapper = document.createElement('script');
+      vendors_mapper.src = '/assets/js/vendors~mapper.js';
+      document.body.appendChild(vendors_mapper);
+    
+  
+    
+      var miseEnProd = document.createElement('script');
+      miseEnProd.src = '/assets/js/mise-en-prod.js';
+      document.body.appendChild(miseEnProd);
+    
+  
+    
+      var VendorMiseEnProd = document.createElement('script');
+      VendorMiseEnProd.src = '/assets/js/vendors~mise-en-prod.js';
+      document.body.appendChild(VendorMiseEnProd);
+    
+  
+    
+      var vendors_actualites_espace_presse_evenements_mise_en_prod_rechercher = document.createElement('script');
+      vendors_actualites_espace_presse_evenements_mise_en_prod_rechercher.src = '/assets/js/vendors~actualites~espace-presse~evenements~mise-en-prod~rechercher.js';
+      document.body.appendChild(vendors_actualites_espace_presse_evenements_mise_en_prod_rechercher);
+    
+  
+    
+  
+    
+  
+    
+  
+</script>
+<script src="/assets/js/sources/daterangepicker.js"></script>
+
+
+
+  </body>
+</html>
+
