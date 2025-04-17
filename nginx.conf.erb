@@ -1,0 +1,7 @@
+set $index_path /app/site;
+root $index_path;
+
+location = / {
+    root $index_path;
+    try_files /index.html =404;
+}
